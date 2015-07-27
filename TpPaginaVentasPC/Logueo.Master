@@ -1,0 +1,65 @@
+﻿<%@ Master Language="VB" AutoEventWireup="false" CodeBehind="Logueo.master.vb" Inherits="TpPaginaVentasPC.Logueo" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="Head1" runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <style type="text/css">
+        .style1
+        {
+            width: 484px;
+        }
+        .style2
+        {
+            width: 302px;
+            height: 162px;
+        }
+    </style>
+</head>
+<body  bgcolor="#9999FF">
+    <form id="form1" runat="server">
+    
+    <table style="width: 100%; height: 49px;" bgcolor="#6600FF">
+            <tr>
+                <td align="right" class="style1" >
+                    <img alt="" class="style2" src="Imagenes/logo.JPG" align="left"/></td>
+                <td bgcolor="#6600FF" class="style12">
+                    <asp:Label ID="Label1" runat="server" Text="Cuenta:" Height="15px"></asp:Label>
+                    <asp:HyperLink ID="hlLoguearse" runat="server" NavigateUrl="~/FormLogueo.aspx" 
+                        Height="15px" ForeColor="#660033">Loguearse</asp:HyperLink>
+                </td>
+                <td bgcolor="#6600FF" class="style5">
+                    <asp:Button ID="btnRegistrarse" runat="server" BackColor="#000066" 
+                        BorderColor="#666699" Text="Registrarse" Height="43px" Width="101px" 
+                        ForeColor="White" />
+                </td>
+            </tr>
+        </table>
+        <table style="width:100%;">
+                <tr>
+                    <td align="right" bgcolor="#6600FF">
+                    <asp:Button ID="btnCarrito" runat="server" Text="Lista de compras" 
+                            Visible="False" BackColor="#000066" BorderColor="#666699" 
+                            ForeColor="White" />
+                    </td>
+                </tr>
+            </table>
+    
+    <div>
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+
+        <table style="width:100%; height: 231px;" bgcolor="#9999FF">
+                <tr>
+                    <td align="right" bgcolor="#9999FF" >
+                    
+                    </td>
+                </tr>
+            </table>
+        </asp:ContentPlaceHolder>
+    </div>
+    </form>
+</body>
+</html>

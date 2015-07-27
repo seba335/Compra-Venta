@@ -1,0 +1,410 @@
+D:\practica 2\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\TpPaginaVentasPC\bin\TpPaginaVentasPC.dll
+D:\practica 2\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\TpPaginaVentasPC\bin\TpPaginaVentasPC.pdb
+D:\practica 2\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\TpPaginaVentasPC\bin\TpPaginaVentasPC.xml
+D:\practica 2\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\TpPaginaVentasPC\obj\Debug\TpPaginaVentasPC.Resources.resources
+D:\practica 2\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\TpPaginaVentasPC\obj\Debug\TpPaginaVentasPC.vbproj.GenerateResource.Cache
+D:\practica 2\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\TpPaginaVentasPC\obj\Debug\TpPaginaVentasPC.dll
+D:\practica 2\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\TpPaginaVentasPC\obj\Debug\TpPaginaVentasPC.xml
+D:\practica 2\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\TpPaginaVentasPC\obj\Debug\TpPaginaVentasPC.pdb
+D:\practica 2\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\TpPaginaVentasPC\bin\Entidades.exe
+D:\practica 2\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\TpPaginaVentasPC\bin\Negocioo.exe
+D:\practica 2\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\TpPaginaVentasPC\bin\Entidades.pdb
+D:\practica 2\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\TpPaginaVentasPC\bin\Entidades.xml
+D:\practica 2\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\TpPaginaVentasPC\bin\Datos.exe
+D:\practica 2\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\TpPaginaVentasPC\bin\Negocioo.pdb
+D:\practica 2\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\TpPaginaVentasPC\bin\Negocioo.xml
+D:\practica 2\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\TpPaginaVentasPC\bin\Datos.pdb
+D:\practica 2\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\TpPaginaVentasPC\bin\Datos.xml
+D:\practica 2\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\TpPaginaVentasPC\obj\Debug\TpPaginaVentasPC.vbprojResolveAssemblyReference.cache
+C:\Users\cristian\Desktop\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\TpPaginaVentasPC\bin\TpPaginaVentasPC.dll
+C:\Users\cristian\Desktop\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\TpPaginaVentasPC\bin\TpPaginaVentasPC.pdb
+C:\Users\cristian\Desktop\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\TpPaginaVentasPC\bin\TpPaginaVentasPC.xml
+C:\Users\cristian\Desktop\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\TpPaginaVentasPC\bin\Entidades.exe
+C:\Users\cristian\Desktop\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\TpPaginaVentasPC\bin\Negocioo.exe
+C:\Users\cristian\Desktop\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\TpPaginaVentasPC\bin\Datos.exe
+C:\Users\cristian\Desktop\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\TpPaginaVentasPC\bin\Entidades.pdb
+C:\Users\cristian\Desktop\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\TpPaginaVentasPC\bin\Entidades.xml
+C:\Users\cristian\Desktop\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\TpPaginaVentasPC\bin\Negocioo.pdb
+C:\Users\cristian\Desktop\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\TpPaginaVentasPC\bin\Negocioo.xml
+C:\Users\cristian\Desktop\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\TpPaginaVentasPC\bin\Datos.pdb
+C:\Users\cristian\Desktop\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\TpPaginaVentasPC\bin\Datos.xml
+C:\Users\cristian\Desktop\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\TpPaginaVentasPC\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\cristian\Desktop\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\TpPaginaVentasPC\obj\Debug\TpPaginaVentasPC.Resources.resources
+C:\Users\cristian\Desktop\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\TpPaginaVentasPC\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\cristian\Desktop\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\TpPaginaVentasPC\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\cristian\Desktop\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\TpPaginaVentasPC\obj\Debug\TpPaginaVentasPC.dll
+C:\Users\cristian\Desktop\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\TpPaginaVentasPC\obj\Debug\TpPaginaVentasPC.xml
+C:\Users\cristian\Desktop\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\TpPaginaVentasPC\obj\Debug\TpPaginaVentasPC.pdb
+C:\Users\Sebastian\Desktop\Cris\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\TpPaginaVentasPC\bin\TpPaginaVentasPC.dll
+C:\Users\Sebastian\Desktop\Cris\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\TpPaginaVentasPC\bin\TpPaginaVentasPC.pdb
+C:\Users\Sebastian\Desktop\Cris\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\TpPaginaVentasPC\bin\TpPaginaVentasPC.xml
+C:\Users\Sebastian\Desktop\Cris\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\TpPaginaVentasPC\bin\Entidades.exe
+C:\Users\Sebastian\Desktop\Cris\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\TpPaginaVentasPC\bin\Negocioo.exe
+C:\Users\Sebastian\Desktop\Cris\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\TpPaginaVentasPC\bin\Datos.exe
+C:\Users\Sebastian\Desktop\Cris\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\TpPaginaVentasPC\bin\Entidades.pdb
+C:\Users\Sebastian\Desktop\Cris\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\TpPaginaVentasPC\bin\Entidades.xml
+C:\Users\Sebastian\Desktop\Cris\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\TpPaginaVentasPC\bin\Negocioo.pdb
+C:\Users\Sebastian\Desktop\Cris\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\TpPaginaVentasPC\bin\Negocioo.xml
+C:\Users\Sebastian\Desktop\Cris\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\TpPaginaVentasPC\bin\Datos.pdb
+C:\Users\Sebastian\Desktop\Cris\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\TpPaginaVentasPC\bin\Datos.xml
+C:\Users\Sebastian\Desktop\Cris\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\TpPaginaVentasPC\obj\Debug\TpPaginaVentasPC.vbprojResolveAssemblyReference.cache
+C:\Users\Sebastian\Desktop\Cris\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\TpPaginaVentasPC\obj\Debug\TpPaginaVentasPC.Resources.resources
+C:\Users\Sebastian\Desktop\Cris\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\TpPaginaVentasPC\obj\Debug\TpPaginaVentasPC.vbproj.GenerateResource.Cache
+C:\Users\Sebastian\Desktop\Cris\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\TpPaginaVentasPC\obj\Debug\TpPaginaVentasPC.dll
+C:\Users\Sebastian\Desktop\Cris\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\TpPaginaVentasPC\obj\Debug\TpPaginaVentasPC.xml
+C:\Users\Sebastian\Desktop\Cris\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\TpPaginaVentasPC\obj\Debug\TpPaginaVentasPC.pdb
+C:\Users\Sebastian\Desktop\Nueva carpeta\Base Actual\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\TpPaginaVentasPC\bin\TpPaginaVentasPC.dll
+C:\Users\Sebastian\Desktop\Nueva carpeta\Base Actual\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\TpPaginaVentasPC\bin\TpPaginaVentasPC.pdb
+C:\Users\Sebastian\Desktop\Nueva carpeta\Base Actual\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\TpPaginaVentasPC\bin\TpPaginaVentasPC.xml
+C:\Users\Sebastian\Desktop\Nueva carpeta\Base Actual\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\TpPaginaVentasPC\bin\Datos.exe
+C:\Users\Sebastian\Desktop\Nueva carpeta\Base Actual\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\TpPaginaVentasPC\bin\Entidades.exe
+C:\Users\Sebastian\Desktop\Nueva carpeta\Base Actual\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\TpPaginaVentasPC\bin\Negocioo.exe
+C:\Users\Sebastian\Desktop\Nueva carpeta\Base Actual\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\TpPaginaVentasPC\bin\Datos.pdb
+C:\Users\Sebastian\Desktop\Nueva carpeta\Base Actual\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\TpPaginaVentasPC\bin\Datos.xml
+C:\Users\Sebastian\Desktop\Nueva carpeta\Base Actual\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\TpPaginaVentasPC\bin\Entidades.pdb
+C:\Users\Sebastian\Desktop\Nueva carpeta\Base Actual\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\TpPaginaVentasPC\bin\Entidades.xml
+C:\Users\Sebastian\Desktop\Nueva carpeta\Base Actual\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\TpPaginaVentasPC\bin\Negocioo.pdb
+C:\Users\Sebastian\Desktop\Nueva carpeta\Base Actual\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\TpPaginaVentasPC\bin\Negocioo.xml
+C:\Users\Sebastian\Desktop\Nueva carpeta\Base Actual\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\TpPaginaVentasPC\obj\Debug\TpPaginaVentasPC.vbprojResolveAssemblyReference.cache
+C:\Users\Sebastian\Desktop\Nueva carpeta\Base Actual\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\TpPaginaVentasPC\obj\Debug\TpPaginaVentasPC.Resources.resources
+C:\Users\Sebastian\Desktop\Nueva carpeta\Base Actual\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\TpPaginaVentasPC\obj\Debug\TpPaginaVentasPC.vbproj.GenerateResource.Cache
+C:\Users\Sebastian\Desktop\Nueva carpeta\Base Actual\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\TpPaginaVentasPC\obj\Debug\TpPaginaVentasPC.dll
+C:\Users\Sebastian\Desktop\Nueva carpeta\Base Actual\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\TpPaginaVentasPC\obj\Debug\TpPaginaVentasPC.xml
+C:\Users\Sebastian\Desktop\Nueva carpeta\Base Actual\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\TpPaginaVentasPC\obj\Debug\TpPaginaVentasPC.pdb
+C:\Users\Sebastian\Desktop\Nueva carpeta\Base Actual 23-6\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\TpPaginaVentasPC\obj\Debug\TpPaginaVentasPC.vbprojResolveAssemblyReference.cache
+C:\Users\Sebastian\Desktop\Nueva carpeta\Base Actual 23-6\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\TpPaginaVentasPC\obj\Debug\TpPaginaVentasPC.Resources.resources
+C:\Users\Sebastian\Desktop\Nueva carpeta\Base Actual 23-6\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\TpPaginaVentasPC\obj\Debug\TpPaginaVentasPC.vbproj.GenerateResource.Cache
+C:\Users\Sebastian\Desktop\Nueva carpeta\Base Actual 23-6\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\TpPaginaVentasPC\obj\Debug\TpPaginaVentasPC.dll
+C:\Users\Sebastian\Desktop\Nueva carpeta\Base Actual 23-6\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\TpPaginaVentasPC\obj\Debug\TpPaginaVentasPC.xml
+C:\Users\Sebastian\Desktop\Nueva carpeta\Base Actual 23-6\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\TpPaginaVentasPC\obj\Debug\TpPaginaVentasPC.pdb
+C:\Users\Sebastian\Desktop\Nueva carpeta\Base Actual 23-6\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\TpPaginaVentasPC\bin\TpPaginaVentasPC.dll
+C:\Users\Sebastian\Desktop\Nueva carpeta\Base Actual 23-6\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\TpPaginaVentasPC\bin\TpPaginaVentasPC.pdb
+C:\Users\Sebastian\Desktop\Nueva carpeta\Base Actual 23-6\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\TpPaginaVentasPC\bin\TpPaginaVentasPC.xml
+C:\Users\Sebastian\Desktop\Nueva carpeta\Base Actual 23-6\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\TpPaginaVentasPC\bin\Datos.exe
+C:\Users\Sebastian\Desktop\Nueva carpeta\Base Actual 23-6\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\TpPaginaVentasPC\bin\Entidades.exe
+C:\Users\Sebastian\Desktop\Nueva carpeta\Base Actual 23-6\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\TpPaginaVentasPC\bin\Negocioo.exe
+C:\Users\Sebastian\Desktop\Nueva carpeta\Base Actual 23-6\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\TpPaginaVentasPC\bin\Datos.pdb
+C:\Users\Sebastian\Desktop\Nueva carpeta\Base Actual 23-6\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\TpPaginaVentasPC\bin\Datos.xml
+C:\Users\Sebastian\Desktop\Nueva carpeta\Base Actual 23-6\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\TpPaginaVentasPC\bin\Entidades.pdb
+C:\Users\Sebastian\Desktop\Nueva carpeta\Base Actual 23-6\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\TpPaginaVentasPC\bin\Entidades.xml
+C:\Users\Sebastian\Desktop\Nueva carpeta\Base Actual 23-6\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\TpPaginaVentasPC\bin\Negocioo.pdb
+C:\Users\Sebastian\Desktop\Nueva carpeta\Base Actual 23-6\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\TpPaginaVentasPC\bin\Negocioo.xml
+D:\practica 2\Base Actual 23-6\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\TpPaginaVentasPC\bin\TpPaginaVentasPC.dll
+D:\practica 2\Base Actual 23-6\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\TpPaginaVentasPC\bin\TpPaginaVentasPC.pdb
+D:\practica 2\Base Actual 23-6\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\TpPaginaVentasPC\bin\TpPaginaVentasPC.xml
+D:\practica 2\Base Actual 23-6\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\TpPaginaVentasPC\bin\Datos.exe
+D:\practica 2\Base Actual 23-6\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\TpPaginaVentasPC\bin\Entidades.exe
+D:\practica 2\Base Actual 23-6\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\TpPaginaVentasPC\bin\Negocioo.exe
+D:\practica 2\Base Actual 23-6\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\TpPaginaVentasPC\bin\Datos.pdb
+D:\practica 2\Base Actual 23-6\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\TpPaginaVentasPC\bin\Datos.xml
+D:\practica 2\Base Actual 23-6\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\TpPaginaVentasPC\bin\Entidades.pdb
+D:\practica 2\Base Actual 23-6\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\TpPaginaVentasPC\bin\Entidades.xml
+D:\practica 2\Base Actual 23-6\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\TpPaginaVentasPC\bin\Negocioo.pdb
+D:\practica 2\Base Actual 23-6\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\TpPaginaVentasPC\bin\Negocioo.xml
+D:\practica 2\Base Actual 23-6\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\TpPaginaVentasPC\obj\Debug\TpPaginaVentasPC.vbprojResolveAssemblyReference.cache
+D:\practica 2\Base Actual 23-6\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\TpPaginaVentasPC\obj\Debug\TpPaginaVentasPC.Resources.resources
+D:\practica 2\Base Actual 23-6\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\TpPaginaVentasPC\obj\Debug\TpPaginaVentasPC.vbproj.GenerateResource.Cache
+D:\practica 2\Base Actual 23-6\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\TpPaginaVentasPC\obj\Debug\TpPaginaVentasPC.dll
+D:\practica 2\Base Actual 23-6\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\TpPaginaVentasPC\obj\Debug\TpPaginaVentasPC.xml
+D:\practica 2\Base Actual 23-6\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\TpPaginaVentasPC\obj\Debug\TpPaginaVentasPC.pdb
+F:\practica 2\Base Actual 23-6\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\TpPaginaVentasPC\obj\Debug\TpPaginaVentasPC.vbprojResolveAssemblyReference.cache
+F:\practica 2\Base Actual 23-6\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\TpPaginaVentasPC\obj\Debug\TpPaginaVentasPC.Resources.resources
+F:\practica 2\Base Actual 23-6\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\TpPaginaVentasPC\obj\Debug\TpPaginaVentasPC.vbproj.GenerateResource.Cache
+F:\practica 2\Base Actual 23-6\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\TpPaginaVentasPC\obj\Debug\TpPaginaVentasPC.dll
+F:\practica 2\Base Actual 23-6\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\TpPaginaVentasPC\obj\Debug\TpPaginaVentasPC.xml
+F:\practica 2\Base Actual 23-6\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\TpPaginaVentasPC\obj\Debug\TpPaginaVentasPC.pdb
+F:\practica 2\Base Actual 23-6\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\TpPaginaVentasPC\bin\TpPaginaVentasPC.dll
+F:\practica 2\Base Actual 23-6\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\TpPaginaVentasPC\bin\TpPaginaVentasPC.pdb
+F:\practica 2\Base Actual 23-6\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\TpPaginaVentasPC\bin\TpPaginaVentasPC.xml
+F:\practica 2\Base Actual 23-6\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\TpPaginaVentasPC\bin\Datos.exe
+F:\practica 2\Base Actual 23-6\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\TpPaginaVentasPC\bin\Entidades.exe
+F:\practica 2\Base Actual 23-6\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\TpPaginaVentasPC\bin\Negocioo.exe
+F:\practica 2\Base Actual 23-6\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\TpPaginaVentasPC\bin\Datos.pdb
+F:\practica 2\Base Actual 23-6\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\TpPaginaVentasPC\bin\Datos.xml
+F:\practica 2\Base Actual 23-6\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\TpPaginaVentasPC\bin\Entidades.pdb
+F:\practica 2\Base Actual 23-6\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\TpPaginaVentasPC\bin\Entidades.xml
+F:\practica 2\Base Actual 23-6\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\TpPaginaVentasPC\bin\Negocioo.pdb
+F:\practica 2\Base Actual 23-6\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\TpPaginaVentasPC\bin\Negocioo.xml
+C:\Users\Sebastian\Desktop\practica 2(25-6)\Base Actual 23-6\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\TpPaginaVentasPC\bin\TpPaginaVentasPC.dll
+C:\Users\Sebastian\Desktop\practica 2(25-6)\Base Actual 23-6\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\TpPaginaVentasPC\bin\TpPaginaVentasPC.pdb
+C:\Users\Sebastian\Desktop\practica 2(25-6)\Base Actual 23-6\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\TpPaginaVentasPC\bin\TpPaginaVentasPC.xml
+C:\Users\Sebastian\Desktop\practica 2(25-6)\Base Actual 23-6\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\TpPaginaVentasPC\bin\Datos.exe
+C:\Users\Sebastian\Desktop\practica 2(25-6)\Base Actual 23-6\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\TpPaginaVentasPC\bin\Entidades.exe
+C:\Users\Sebastian\Desktop\practica 2(25-6)\Base Actual 23-6\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\TpPaginaVentasPC\bin\Negocioo.exe
+C:\Users\Sebastian\Desktop\practica 2(25-6)\Base Actual 23-6\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\TpPaginaVentasPC\bin\Datos.pdb
+C:\Users\Sebastian\Desktop\practica 2(25-6)\Base Actual 23-6\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\TpPaginaVentasPC\bin\Datos.xml
+C:\Users\Sebastian\Desktop\practica 2(25-6)\Base Actual 23-6\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\TpPaginaVentasPC\bin\Entidades.pdb
+C:\Users\Sebastian\Desktop\practica 2(25-6)\Base Actual 23-6\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\TpPaginaVentasPC\bin\Entidades.xml
+C:\Users\Sebastian\Desktop\practica 2(25-6)\Base Actual 23-6\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\TpPaginaVentasPC\bin\Negocioo.pdb
+C:\Users\Sebastian\Desktop\practica 2(25-6)\Base Actual 23-6\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\TpPaginaVentasPC\bin\Negocioo.xml
+C:\Users\Sebastian\Desktop\practica 2(25-6)\Base Actual 23-6\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\TpPaginaVentasPC\obj\Debug\TpPaginaVentasPC.vbprojResolveAssemblyReference.cache
+C:\Users\Sebastian\Desktop\practica 2(25-6)\Base Actual 23-6\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\TpPaginaVentasPC\obj\Debug\TpPaginaVentasPC.Resources.resources
+C:\Users\Sebastian\Desktop\practica 2(25-6)\Base Actual 23-6\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\TpPaginaVentasPC\obj\Debug\TpPaginaVentasPC.vbproj.GenerateResource.Cache
+C:\Users\Sebastian\Desktop\practica 2(25-6)\Base Actual 23-6\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\TpPaginaVentasPC\obj\Debug\TpPaginaVentasPC.dll
+C:\Users\Sebastian\Desktop\practica 2(25-6)\Base Actual 23-6\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\TpPaginaVentasPC\obj\Debug\TpPaginaVentasPC.xml
+C:\Users\Sebastian\Desktop\practica 2(25-6)\Base Actual 23-6\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\TpPaginaVentasPC\obj\Debug\TpPaginaVentasPC.pdb
+C:\Users\Sebastian\Desktop\practica 2(30-7)\Base Actual 23-6\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\TpPaginaVentasPC\bin\TpPaginaVentasPC.dll
+C:\Users\Sebastian\Desktop\practica 2(30-7)\Base Actual 23-6\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\TpPaginaVentasPC\bin\TpPaginaVentasPC.pdb
+C:\Users\Sebastian\Desktop\practica 2(30-7)\Base Actual 23-6\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\TpPaginaVentasPC\bin\TpPaginaVentasPC.xml
+C:\Users\Sebastian\Desktop\practica 2(30-7)\Base Actual 23-6\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\TpPaginaVentasPC\bin\Datos.exe
+C:\Users\Sebastian\Desktop\practica 2(30-7)\Base Actual 23-6\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\TpPaginaVentasPC\bin\Entidades.exe
+C:\Users\Sebastian\Desktop\practica 2(30-7)\Base Actual 23-6\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\TpPaginaVentasPC\bin\Negocioo.exe
+C:\Users\Sebastian\Desktop\practica 2(30-7)\Base Actual 23-6\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\TpPaginaVentasPC\bin\Datos.pdb
+C:\Users\Sebastian\Desktop\practica 2(30-7)\Base Actual 23-6\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\TpPaginaVentasPC\bin\Datos.xml
+C:\Users\Sebastian\Desktop\practica 2(30-7)\Base Actual 23-6\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\TpPaginaVentasPC\bin\Entidades.pdb
+C:\Users\Sebastian\Desktop\practica 2(30-7)\Base Actual 23-6\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\TpPaginaVentasPC\bin\Entidades.xml
+C:\Users\Sebastian\Desktop\practica 2(30-7)\Base Actual 23-6\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\TpPaginaVentasPC\bin\Negocioo.pdb
+C:\Users\Sebastian\Desktop\practica 2(30-7)\Base Actual 23-6\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\TpPaginaVentasPC\bin\Negocioo.xml
+C:\Users\Sebastian\Desktop\practica 2(30-7)\Base Actual 23-6\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\TpPaginaVentasPC\obj\Debug\TpPaginaVentasPC.vbprojResolveAssemblyReference.cache
+C:\Users\Sebastian\Desktop\practica 2(30-7)\Base Actual 23-6\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\TpPaginaVentasPC\obj\Debug\TpPaginaVentasPC.Resources.resources
+C:\Users\Sebastian\Desktop\practica 2(30-7)\Base Actual 23-6\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\TpPaginaVentasPC\obj\Debug\TpPaginaVentasPC.vbproj.GenerateResource.Cache
+C:\Users\Sebastian\Desktop\practica 2(30-7)\Base Actual 23-6\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\TpPaginaVentasPC\obj\Debug\TpPaginaVentasPC.dll
+C:\Users\Sebastian\Desktop\practica 2(30-7)\Base Actual 23-6\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\TpPaginaVentasPC\obj\Debug\TpPaginaVentasPC.xml
+C:\Users\Sebastian\Desktop\practica 2(30-7)\Base Actual 23-6\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\TpPaginaVentasPC\obj\Debug\TpPaginaVentasPC.pdb
+C:\Users\diego\Desktop\Mio\practica 2(5-7)\Base Actual 23-6\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\TpPaginaVentasPC\bin\TpPaginaVentasPC.dll
+C:\Users\diego\Desktop\Mio\practica 2(5-7)\Base Actual 23-6\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\TpPaginaVentasPC\bin\TpPaginaVentasPC.pdb
+C:\Users\diego\Desktop\Mio\practica 2(5-7)\Base Actual 23-6\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\TpPaginaVentasPC\bin\TpPaginaVentasPC.xml
+C:\Users\diego\Desktop\Mio\practica 2(5-7)\Base Actual 23-6\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\TpPaginaVentasPC\bin\Datos.exe
+C:\Users\diego\Desktop\Mio\practica 2(5-7)\Base Actual 23-6\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\TpPaginaVentasPC\bin\Entidades.exe
+C:\Users\diego\Desktop\Mio\practica 2(5-7)\Base Actual 23-6\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\TpPaginaVentasPC\bin\Negocioo.exe
+C:\Users\diego\Desktop\Mio\practica 2(5-7)\Base Actual 23-6\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\TpPaginaVentasPC\bin\Datos.pdb
+C:\Users\diego\Desktop\Mio\practica 2(5-7)\Base Actual 23-6\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\TpPaginaVentasPC\bin\Datos.xml
+C:\Users\diego\Desktop\Mio\practica 2(5-7)\Base Actual 23-6\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\TpPaginaVentasPC\bin\Entidades.pdb
+C:\Users\diego\Desktop\Mio\practica 2(5-7)\Base Actual 23-6\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\TpPaginaVentasPC\bin\Entidades.xml
+C:\Users\diego\Desktop\Mio\practica 2(5-7)\Base Actual 23-6\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\TpPaginaVentasPC\bin\Negocioo.pdb
+C:\Users\diego\Desktop\Mio\practica 2(5-7)\Base Actual 23-6\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\TpPaginaVentasPC\bin\Negocioo.xml
+C:\Users\diego\Desktop\Mio\practica 2(5-7)\Base Actual 23-6\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\TpPaginaVentasPC\obj\Debug\TpPaginaVentasPC.vbprojResolveAssemblyReference.cache
+C:\Users\diego\Desktop\Mio\practica 2(5-7)\Base Actual 23-6\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\TpPaginaVentasPC\obj\Debug\TpPaginaVentasPC.Resources.resources
+C:\Users\diego\Desktop\Mio\practica 2(5-7)\Base Actual 23-6\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\TpPaginaVentasPC\obj\Debug\TpPaginaVentasPC.vbproj.GenerateResource.Cache
+C:\Users\diego\Desktop\Mio\practica 2(5-7)\Base Actual 23-6\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\TpPaginaVentasPC\obj\Debug\TpPaginaVentasPC.dll
+C:\Users\diego\Desktop\Mio\practica 2(5-7)\Base Actual 23-6\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\TpPaginaVentasPC\obj\Debug\TpPaginaVentasPC.xml
+C:\Users\diego\Desktop\Mio\practica 2(5-7)\Base Actual 23-6\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\TpPaginaVentasPC\obj\Debug\TpPaginaVentasPC.pdb
+C:\Users\Sebastian\Desktop\TpPaginaVentasPC(6-7)\TpPaginaVentasPC\bin\TpPaginaVentasPC.dll
+C:\Users\Sebastian\Desktop\TpPaginaVentasPC(6-7)\TpPaginaVentasPC\bin\TpPaginaVentasPC.pdb
+C:\Users\Sebastian\Desktop\TpPaginaVentasPC(6-7)\TpPaginaVentasPC\bin\TpPaginaVentasPC.xml
+C:\Users\Sebastian\Desktop\TpPaginaVentasPC(6-7)\TpPaginaVentasPC\bin\Datos.exe
+C:\Users\Sebastian\Desktop\TpPaginaVentasPC(6-7)\TpPaginaVentasPC\bin\Entidades.exe
+C:\Users\Sebastian\Desktop\TpPaginaVentasPC(6-7)\TpPaginaVentasPC\bin\Negocioo.exe
+C:\Users\Sebastian\Desktop\TpPaginaVentasPC(6-7)\TpPaginaVentasPC\bin\Datos.pdb
+C:\Users\Sebastian\Desktop\TpPaginaVentasPC(6-7)\TpPaginaVentasPC\bin\Datos.xml
+C:\Users\Sebastian\Desktop\TpPaginaVentasPC(6-7)\TpPaginaVentasPC\bin\Entidades.pdb
+C:\Users\Sebastian\Desktop\TpPaginaVentasPC(6-7)\TpPaginaVentasPC\bin\Entidades.xml
+C:\Users\Sebastian\Desktop\TpPaginaVentasPC(6-7)\TpPaginaVentasPC\bin\Negocioo.pdb
+C:\Users\Sebastian\Desktop\TpPaginaVentasPC(6-7)\TpPaginaVentasPC\bin\Negocioo.xml
+C:\Users\Sebastian\Desktop\TpPaginaVentasPC(6-7)\TpPaginaVentasPC\obj\Debug\TpPaginaVentasPC.vbprojResolveAssemblyReference.cache
+C:\Users\Sebastian\Desktop\TpPaginaVentasPC(6-7)\TpPaginaVentasPC\obj\Debug\TpPaginaVentasPC.Resources.resources
+C:\Users\Sebastian\Desktop\TpPaginaVentasPC(6-7)\TpPaginaVentasPC\obj\Debug\TpPaginaVentasPC.vbproj.GenerateResource.Cache
+C:\Users\Sebastian\Desktop\TpPaginaVentasPC(6-7)\TpPaginaVentasPC\obj\Debug\TpPaginaVentasPC.dll
+C:\Users\Sebastian\Desktop\TpPaginaVentasPC(6-7)\TpPaginaVentasPC\obj\Debug\TpPaginaVentasPC.xml
+C:\Users\Sebastian\Desktop\TpPaginaVentasPC(6-7)\TpPaginaVentasPC\obj\Debug\TpPaginaVentasPC.pdb
+C:\Users\Sebastian\Desktop\Tp Para continuar\TpPaginaVentasPC(16-7)\TpPaginaVentasPC\bin\TpPaginaVentasPC.dll
+C:\Users\Sebastian\Desktop\Tp Para continuar\TpPaginaVentasPC(16-7)\TpPaginaVentasPC\bin\TpPaginaVentasPC.pdb
+C:\Users\Sebastian\Desktop\Tp Para continuar\TpPaginaVentasPC(16-7)\TpPaginaVentasPC\bin\TpPaginaVentasPC.xml
+C:\Users\Sebastian\Desktop\Tp Para continuar\TpPaginaVentasPC(16-7)\TpPaginaVentasPC\bin\Datos.exe
+C:\Users\Sebastian\Desktop\Tp Para continuar\TpPaginaVentasPC(16-7)\TpPaginaVentasPC\bin\Entidades.exe
+C:\Users\Sebastian\Desktop\Tp Para continuar\TpPaginaVentasPC(16-7)\TpPaginaVentasPC\bin\Negocioo.exe
+C:\Users\Sebastian\Desktop\Tp Para continuar\TpPaginaVentasPC(16-7)\TpPaginaVentasPC\bin\Datos.pdb
+C:\Users\Sebastian\Desktop\Tp Para continuar\TpPaginaVentasPC(16-7)\TpPaginaVentasPC\bin\Datos.xml
+C:\Users\Sebastian\Desktop\Tp Para continuar\TpPaginaVentasPC(16-7)\TpPaginaVentasPC\bin\Entidades.pdb
+C:\Users\Sebastian\Desktop\Tp Para continuar\TpPaginaVentasPC(16-7)\TpPaginaVentasPC\bin\Entidades.xml
+C:\Users\Sebastian\Desktop\Tp Para continuar\TpPaginaVentasPC(16-7)\TpPaginaVentasPC\bin\Negocioo.pdb
+C:\Users\Sebastian\Desktop\Tp Para continuar\TpPaginaVentasPC(16-7)\TpPaginaVentasPC\bin\Negocioo.xml
+C:\Users\Sebastian\Desktop\Tp Para continuar\TpPaginaVentasPC(16-7)\TpPaginaVentasPC\obj\Debug\TpPaginaVentasPC.vbprojResolveAssemblyReference.cache
+C:\Users\Sebastian\Desktop\Tp Para continuar\TpPaginaVentasPC(16-7)\TpPaginaVentasPC\obj\Debug\TpPaginaVentasPC.Resources.resources
+C:\Users\Sebastian\Desktop\Tp Para continuar\TpPaginaVentasPC(16-7)\TpPaginaVentasPC\obj\Debug\TpPaginaVentasPC.vbproj.GenerateResource.Cache
+C:\Users\Sebastian\Desktop\Tp Para continuar\TpPaginaVentasPC(16-7)\TpPaginaVentasPC\obj\Debug\TpPaginaVentasPC.dll
+C:\Users\Sebastian\Desktop\Tp Para continuar\TpPaginaVentasPC(16-7)\TpPaginaVentasPC\obj\Debug\TpPaginaVentasPC.xml
+C:\Users\Sebastian\Desktop\Tp Para continuar\TpPaginaVentasPC(16-7)\TpPaginaVentasPC\obj\Debug\TpPaginaVentasPC.pdb
+C:\Users\diego12\Desktop\Tp Para continuar\TpPaginaVentasPC(16-7)\TpPaginaVentasPC\bin\TpPaginaVentasPC.dll
+C:\Users\diego12\Desktop\Tp Para continuar\TpPaginaVentasPC(16-7)\TpPaginaVentasPC\bin\TpPaginaVentasPC.pdb
+C:\Users\diego12\Desktop\Tp Para continuar\TpPaginaVentasPC(16-7)\TpPaginaVentasPC\bin\TpPaginaVentasPC.xml
+C:\Users\diego12\Desktop\Tp Para continuar\TpPaginaVentasPC(16-7)\TpPaginaVentasPC\bin\Datos.exe
+C:\Users\diego12\Desktop\Tp Para continuar\TpPaginaVentasPC(16-7)\TpPaginaVentasPC\bin\Entidades.exe
+C:\Users\diego12\Desktop\Tp Para continuar\TpPaginaVentasPC(16-7)\TpPaginaVentasPC\bin\Negocioo.exe
+C:\Users\diego12\Desktop\Tp Para continuar\TpPaginaVentasPC(16-7)\TpPaginaVentasPC\bin\Datos.pdb
+C:\Users\diego12\Desktop\Tp Para continuar\TpPaginaVentasPC(16-7)\TpPaginaVentasPC\bin\Datos.xml
+C:\Users\diego12\Desktop\Tp Para continuar\TpPaginaVentasPC(16-7)\TpPaginaVentasPC\bin\Entidades.pdb
+C:\Users\diego12\Desktop\Tp Para continuar\TpPaginaVentasPC(16-7)\TpPaginaVentasPC\bin\Entidades.xml
+C:\Users\diego12\Desktop\Tp Para continuar\TpPaginaVentasPC(16-7)\TpPaginaVentasPC\bin\Negocioo.pdb
+C:\Users\diego12\Desktop\Tp Para continuar\TpPaginaVentasPC(16-7)\TpPaginaVentasPC\bin\Negocioo.xml
+C:\Users\diego12\Desktop\Tp Para continuar\TpPaginaVentasPC(16-7)\TpPaginaVentasPC\obj\Debug\TpPaginaVentasPC.vbprojResolveAssemblyReference.cache
+C:\Users\diego12\Desktop\Tp Para continuar\TpPaginaVentasPC(16-7)\TpPaginaVentasPC\obj\Debug\TpPaginaVentasPC.Resources.resources
+C:\Users\diego12\Desktop\Tp Para continuar\TpPaginaVentasPC(16-7)\TpPaginaVentasPC\obj\Debug\TpPaginaVentasPC.vbproj.GenerateResource.Cache
+C:\Users\diego12\Desktop\Tp Para continuar\TpPaginaVentasPC(16-7)\TpPaginaVentasPC\obj\Debug\TpPaginaVentasPC.dll
+C:\Users\diego12\Desktop\Tp Para continuar\TpPaginaVentasPC(16-7)\TpPaginaVentasPC\obj\Debug\TpPaginaVentasPC.xml
+C:\Users\diego12\Desktop\Tp Para continuar\TpPaginaVentasPC(16-7)\TpPaginaVentasPC\obj\Debug\TpPaginaVentasPC.pdb
+C:\Users\Sebastian\Desktop\Archivos adjuntos_2014730\Tp Para continuar\TpPaginaVentasPC(16-7)\TpPaginaVentasPC\bin\TpPaginaVentasPC.dll
+C:\Users\Sebastian\Desktop\Archivos adjuntos_2014730\Tp Para continuar\TpPaginaVentasPC(16-7)\TpPaginaVentasPC\bin\TpPaginaVentasPC.pdb
+C:\Users\Sebastian\Desktop\Archivos adjuntos_2014730\Tp Para continuar\TpPaginaVentasPC(16-7)\TpPaginaVentasPC\bin\TpPaginaVentasPC.xml
+C:\Users\Sebastian\Desktop\Archivos adjuntos_2014730\Tp Para continuar\TpPaginaVentasPC(16-7)\TpPaginaVentasPC\bin\Datos.exe
+C:\Users\Sebastian\Desktop\Archivos adjuntos_2014730\Tp Para continuar\TpPaginaVentasPC(16-7)\TpPaginaVentasPC\bin\Entidades.exe
+C:\Users\Sebastian\Desktop\Archivos adjuntos_2014730\Tp Para continuar\TpPaginaVentasPC(16-7)\TpPaginaVentasPC\bin\Negocioo.exe
+C:\Users\Sebastian\Desktop\Archivos adjuntos_2014730\Tp Para continuar\TpPaginaVentasPC(16-7)\TpPaginaVentasPC\bin\Datos.pdb
+C:\Users\Sebastian\Desktop\Archivos adjuntos_2014730\Tp Para continuar\TpPaginaVentasPC(16-7)\TpPaginaVentasPC\bin\Datos.xml
+C:\Users\Sebastian\Desktop\Archivos adjuntos_2014730\Tp Para continuar\TpPaginaVentasPC(16-7)\TpPaginaVentasPC\bin\Entidades.pdb
+C:\Users\Sebastian\Desktop\Archivos adjuntos_2014730\Tp Para continuar\TpPaginaVentasPC(16-7)\TpPaginaVentasPC\bin\Entidades.xml
+C:\Users\Sebastian\Desktop\Archivos adjuntos_2014730\Tp Para continuar\TpPaginaVentasPC(16-7)\TpPaginaVentasPC\bin\Negocioo.pdb
+C:\Users\Sebastian\Desktop\Archivos adjuntos_2014730\Tp Para continuar\TpPaginaVentasPC(16-7)\TpPaginaVentasPC\bin\Negocioo.xml
+C:\Users\Sebastian\Desktop\Archivos adjuntos_2014730\Tp Para continuar\TpPaginaVentasPC(16-7)\TpPaginaVentasPC\obj\Debug\TpPaginaVentasPC.vbprojResolveAssemblyReference.cache
+C:\Users\Sebastian\Desktop\Archivos adjuntos_2014730\Tp Para continuar\TpPaginaVentasPC(16-7)\TpPaginaVentasPC\obj\Debug\TpPaginaVentasPC.Resources.resources
+C:\Users\Sebastian\Desktop\Archivos adjuntos_2014730\Tp Para continuar\TpPaginaVentasPC(16-7)\TpPaginaVentasPC\obj\Debug\TpPaginaVentasPC.vbproj.GenerateResource.Cache
+C:\Users\Sebastian\Desktop\Archivos adjuntos_2014730\Tp Para continuar\TpPaginaVentasPC(16-7)\TpPaginaVentasPC\obj\Debug\TpPaginaVentasPC.dll
+C:\Users\Sebastian\Desktop\Archivos adjuntos_2014730\Tp Para continuar\TpPaginaVentasPC(16-7)\TpPaginaVentasPC\obj\Debug\TpPaginaVentasPC.xml
+C:\Users\Sebastian\Desktop\Archivos adjuntos_2014730\Tp Para continuar\TpPaginaVentasPC(16-7)\TpPaginaVentasPC\obj\Debug\TpPaginaVentasPC.pdb
+C:\Users\Sebastian\Desktop\Archivos adjuntos_2014730\Tp Para continuar\TpPaginaVentasPC(16-7)\TpPaginaVentasPC\bin\AjaxControlToolkit.pdb
+C:\Users\Sebastian\Desktop\Archivos adjuntos_2014730\Tp Para continuar\TpPaginaVentasPC(16-7)\TpPaginaVentasPC\bin\ar\AjaxControlToolkit.resources.dll
+C:\Users\Sebastian\Desktop\Archivos adjuntos_2014730\Tp Para continuar\TpPaginaVentasPC(16-7)\TpPaginaVentasPC\bin\cs\AjaxControlToolkit.resources.dll
+C:\Users\Sebastian\Desktop\Archivos adjuntos_2014730\Tp Para continuar\TpPaginaVentasPC(16-7)\TpPaginaVentasPC\bin\de\AjaxControlToolkit.resources.dll
+C:\Users\Sebastian\Desktop\Archivos adjuntos_2014730\Tp Para continuar\TpPaginaVentasPC(16-7)\TpPaginaVentasPC\bin\es\AjaxControlToolkit.resources.dll
+C:\Users\Sebastian\Desktop\Archivos adjuntos_2014730\Tp Para continuar\TpPaginaVentasPC(16-7)\TpPaginaVentasPC\bin\fr\AjaxControlToolkit.resources.dll
+C:\Users\Sebastian\Desktop\Archivos adjuntos_2014730\Tp Para continuar\TpPaginaVentasPC(16-7)\TpPaginaVentasPC\bin\he\AjaxControlToolkit.resources.dll
+C:\Users\Sebastian\Desktop\Archivos adjuntos_2014730\Tp Para continuar\TpPaginaVentasPC(16-7)\TpPaginaVentasPC\bin\hi\AjaxControlToolkit.resources.dll
+C:\Users\Sebastian\Desktop\Archivos adjuntos_2014730\Tp Para continuar\TpPaginaVentasPC(16-7)\TpPaginaVentasPC\bin\it\AjaxControlToolkit.resources.dll
+C:\Users\Sebastian\Desktop\Archivos adjuntos_2014730\Tp Para continuar\TpPaginaVentasPC(16-7)\TpPaginaVentasPC\bin\ja\AjaxControlToolkit.resources.dll
+C:\Users\Sebastian\Desktop\Archivos adjuntos_2014730\Tp Para continuar\TpPaginaVentasPC(16-7)\TpPaginaVentasPC\bin\ko\AjaxControlToolkit.resources.dll
+C:\Users\Sebastian\Desktop\Archivos adjuntos_2014730\Tp Para continuar\TpPaginaVentasPC(16-7)\TpPaginaVentasPC\bin\nl\AjaxControlToolkit.resources.dll
+C:\Users\Sebastian\Desktop\Archivos adjuntos_2014730\Tp Para continuar\TpPaginaVentasPC(16-7)\TpPaginaVentasPC\bin\pt\AjaxControlToolkit.resources.dll
+C:\Users\Sebastian\Desktop\Archivos adjuntos_2014730\Tp Para continuar\TpPaginaVentasPC(16-7)\TpPaginaVentasPC\bin\ru\AjaxControlToolkit.resources.dll
+C:\Users\Sebastian\Desktop\Archivos adjuntos_2014730\Tp Para continuar\TpPaginaVentasPC(16-7)\TpPaginaVentasPC\bin\tr-TR\AjaxControlToolkit.resources.dll
+C:\Users\Sebastian\Desktop\Archivos adjuntos_2014730\Tp Para continuar\TpPaginaVentasPC(16-7)\TpPaginaVentasPC\bin\zh-CHS\AjaxControlToolkit.resources.dll
+C:\Users\Sebastian\Desktop\Archivos adjuntos_2014730\Tp Para continuar\TpPaginaVentasPC(16-7)\TpPaginaVentasPC\bin\zh-CHT\AjaxControlToolkit.resources.dll
+J:\practica 2\Tp Sabado 5-8\Tp Para continuar\TpPaginaVentasPC(16-7)\TpPaginaVentasPC\bin\TpPaginaVentasPC.dll
+J:\practica 2\Tp Sabado 5-8\Tp Para continuar\TpPaginaVentasPC(16-7)\TpPaginaVentasPC\bin\TpPaginaVentasPC.pdb
+J:\practica 2\Tp Sabado 5-8\Tp Para continuar\TpPaginaVentasPC(16-7)\TpPaginaVentasPC\bin\TpPaginaVentasPC.xml
+J:\practica 2\Tp Sabado 5-8\Tp Para continuar\TpPaginaVentasPC(16-7)\TpPaginaVentasPC\bin\Datos.exe
+J:\practica 2\Tp Sabado 5-8\Tp Para continuar\TpPaginaVentasPC(16-7)\TpPaginaVentasPC\bin\Entidades.exe
+J:\practica 2\Tp Sabado 5-8\Tp Para continuar\TpPaginaVentasPC(16-7)\TpPaginaVentasPC\bin\Negocioo.exe
+J:\practica 2\Tp Sabado 5-8\Tp Para continuar\TpPaginaVentasPC(16-7)\TpPaginaVentasPC\bin\Datos.pdb
+J:\practica 2\Tp Sabado 5-8\Tp Para continuar\TpPaginaVentasPC(16-7)\TpPaginaVentasPC\bin\Datos.xml
+J:\practica 2\Tp Sabado 5-8\Tp Para continuar\TpPaginaVentasPC(16-7)\TpPaginaVentasPC\bin\Entidades.pdb
+J:\practica 2\Tp Sabado 5-8\Tp Para continuar\TpPaginaVentasPC(16-7)\TpPaginaVentasPC\bin\Entidades.xml
+J:\practica 2\Tp Sabado 5-8\Tp Para continuar\TpPaginaVentasPC(16-7)\TpPaginaVentasPC\bin\Negocioo.pdb
+J:\practica 2\Tp Sabado 5-8\Tp Para continuar\TpPaginaVentasPC(16-7)\TpPaginaVentasPC\bin\Negocioo.xml
+J:\practica 2\Tp Sabado 5-8\Tp Para continuar\TpPaginaVentasPC(16-7)\TpPaginaVentasPC\bin\AjaxControlToolkit.pdb
+J:\practica 2\Tp Sabado 5-8\Tp Para continuar\TpPaginaVentasPC(16-7)\TpPaginaVentasPC\bin\ar\AjaxControlToolkit.resources.dll
+J:\practica 2\Tp Sabado 5-8\Tp Para continuar\TpPaginaVentasPC(16-7)\TpPaginaVentasPC\bin\cs\AjaxControlToolkit.resources.dll
+J:\practica 2\Tp Sabado 5-8\Tp Para continuar\TpPaginaVentasPC(16-7)\TpPaginaVentasPC\bin\de\AjaxControlToolkit.resources.dll
+J:\practica 2\Tp Sabado 5-8\Tp Para continuar\TpPaginaVentasPC(16-7)\TpPaginaVentasPC\bin\es\AjaxControlToolkit.resources.dll
+J:\practica 2\Tp Sabado 5-8\Tp Para continuar\TpPaginaVentasPC(16-7)\TpPaginaVentasPC\bin\fr\AjaxControlToolkit.resources.dll
+J:\practica 2\Tp Sabado 5-8\Tp Para continuar\TpPaginaVentasPC(16-7)\TpPaginaVentasPC\bin\he\AjaxControlToolkit.resources.dll
+J:\practica 2\Tp Sabado 5-8\Tp Para continuar\TpPaginaVentasPC(16-7)\TpPaginaVentasPC\bin\hi\AjaxControlToolkit.resources.dll
+J:\practica 2\Tp Sabado 5-8\Tp Para continuar\TpPaginaVentasPC(16-7)\TpPaginaVentasPC\bin\it\AjaxControlToolkit.resources.dll
+J:\practica 2\Tp Sabado 5-8\Tp Para continuar\TpPaginaVentasPC(16-7)\TpPaginaVentasPC\bin\ja\AjaxControlToolkit.resources.dll
+J:\practica 2\Tp Sabado 5-8\Tp Para continuar\TpPaginaVentasPC(16-7)\TpPaginaVentasPC\bin\ko\AjaxControlToolkit.resources.dll
+J:\practica 2\Tp Sabado 5-8\Tp Para continuar\TpPaginaVentasPC(16-7)\TpPaginaVentasPC\bin\nl\AjaxControlToolkit.resources.dll
+J:\practica 2\Tp Sabado 5-8\Tp Para continuar\TpPaginaVentasPC(16-7)\TpPaginaVentasPC\bin\pt\AjaxControlToolkit.resources.dll
+J:\practica 2\Tp Sabado 5-8\Tp Para continuar\TpPaginaVentasPC(16-7)\TpPaginaVentasPC\bin\ru\AjaxControlToolkit.resources.dll
+J:\practica 2\Tp Sabado 5-8\Tp Para continuar\TpPaginaVentasPC(16-7)\TpPaginaVentasPC\bin\tr-TR\AjaxControlToolkit.resources.dll
+J:\practica 2\Tp Sabado 5-8\Tp Para continuar\TpPaginaVentasPC(16-7)\TpPaginaVentasPC\bin\zh-CHS\AjaxControlToolkit.resources.dll
+J:\practica 2\Tp Sabado 5-8\Tp Para continuar\TpPaginaVentasPC(16-7)\TpPaginaVentasPC\bin\zh-CHT\AjaxControlToolkit.resources.dll
+J:\practica 2\Tp Sabado 5-8\Tp Para continuar\TpPaginaVentasPC(16-7)\TpPaginaVentasPC\obj\Debug\TpPaginaVentasPC.vbprojResolveAssemblyReference.cache
+J:\practica 2\Tp Sabado 5-8\Tp Para continuar\TpPaginaVentasPC(16-7)\TpPaginaVentasPC\obj\Debug\TpPaginaVentasPC.Resources.resources
+J:\practica 2\Tp Sabado 5-8\Tp Para continuar\TpPaginaVentasPC(16-7)\TpPaginaVentasPC\obj\Debug\TpPaginaVentasPC.vbproj.GenerateResource.Cache
+J:\practica 2\Tp Sabado 5-8\Tp Para continuar\TpPaginaVentasPC(16-7)\TpPaginaVentasPC\obj\Debug\TpPaginaVentasPC.dll
+J:\practica 2\Tp Sabado 5-8\Tp Para continuar\TpPaginaVentasPC(16-7)\TpPaginaVentasPC\obj\Debug\TpPaginaVentasPC.xml
+J:\practica 2\Tp Sabado 5-8\Tp Para continuar\TpPaginaVentasPC(16-7)\TpPaginaVentasPC\obj\Debug\TpPaginaVentasPC.pdb
+C:\Users\Sebastian\Desktop\Tp Sabado 6-8\Tp Para continuar\TpPaginaVentasPC(16-7)\TpPaginaVentasPC\bin\TpPaginaVentasPC.dll
+C:\Users\Sebastian\Desktop\Tp Sabado 6-8\Tp Para continuar\TpPaginaVentasPC(16-7)\TpPaginaVentasPC\bin\TpPaginaVentasPC.pdb
+C:\Users\Sebastian\Desktop\Tp Sabado 6-8\Tp Para continuar\TpPaginaVentasPC(16-7)\TpPaginaVentasPC\bin\TpPaginaVentasPC.xml
+C:\Users\Sebastian\Desktop\Tp Sabado 6-8\Tp Para continuar\TpPaginaVentasPC(16-7)\TpPaginaVentasPC\bin\Datos.exe
+C:\Users\Sebastian\Desktop\Tp Sabado 6-8\Tp Para continuar\TpPaginaVentasPC(16-7)\TpPaginaVentasPC\bin\Entidades.exe
+C:\Users\Sebastian\Desktop\Tp Sabado 6-8\Tp Para continuar\TpPaginaVentasPC(16-7)\TpPaginaVentasPC\bin\Negocioo.exe
+C:\Users\Sebastian\Desktop\Tp Sabado 6-8\Tp Para continuar\TpPaginaVentasPC(16-7)\TpPaginaVentasPC\bin\Datos.pdb
+C:\Users\Sebastian\Desktop\Tp Sabado 6-8\Tp Para continuar\TpPaginaVentasPC(16-7)\TpPaginaVentasPC\bin\Datos.xml
+C:\Users\Sebastian\Desktop\Tp Sabado 6-8\Tp Para continuar\TpPaginaVentasPC(16-7)\TpPaginaVentasPC\bin\Entidades.pdb
+C:\Users\Sebastian\Desktop\Tp Sabado 6-8\Tp Para continuar\TpPaginaVentasPC(16-7)\TpPaginaVentasPC\bin\Entidades.xml
+C:\Users\Sebastian\Desktop\Tp Sabado 6-8\Tp Para continuar\TpPaginaVentasPC(16-7)\TpPaginaVentasPC\bin\Negocioo.pdb
+C:\Users\Sebastian\Desktop\Tp Sabado 6-8\Tp Para continuar\TpPaginaVentasPC(16-7)\TpPaginaVentasPC\bin\Negocioo.xml
+C:\Users\Sebastian\Desktop\Tp Sabado 6-8\Tp Para continuar\TpPaginaVentasPC(16-7)\TpPaginaVentasPC\bin\AjaxControlToolkit.pdb
+C:\Users\Sebastian\Desktop\Tp Sabado 6-8\Tp Para continuar\TpPaginaVentasPC(16-7)\TpPaginaVentasPC\bin\ar\AjaxControlToolkit.resources.dll
+C:\Users\Sebastian\Desktop\Tp Sabado 6-8\Tp Para continuar\TpPaginaVentasPC(16-7)\TpPaginaVentasPC\bin\cs\AjaxControlToolkit.resources.dll
+C:\Users\Sebastian\Desktop\Tp Sabado 6-8\Tp Para continuar\TpPaginaVentasPC(16-7)\TpPaginaVentasPC\bin\de\AjaxControlToolkit.resources.dll
+C:\Users\Sebastian\Desktop\Tp Sabado 6-8\Tp Para continuar\TpPaginaVentasPC(16-7)\TpPaginaVentasPC\bin\es\AjaxControlToolkit.resources.dll
+C:\Users\Sebastian\Desktop\Tp Sabado 6-8\Tp Para continuar\TpPaginaVentasPC(16-7)\TpPaginaVentasPC\bin\fr\AjaxControlToolkit.resources.dll
+C:\Users\Sebastian\Desktop\Tp Sabado 6-8\Tp Para continuar\TpPaginaVentasPC(16-7)\TpPaginaVentasPC\bin\he\AjaxControlToolkit.resources.dll
+C:\Users\Sebastian\Desktop\Tp Sabado 6-8\Tp Para continuar\TpPaginaVentasPC(16-7)\TpPaginaVentasPC\bin\hi\AjaxControlToolkit.resources.dll
+C:\Users\Sebastian\Desktop\Tp Sabado 6-8\Tp Para continuar\TpPaginaVentasPC(16-7)\TpPaginaVentasPC\bin\it\AjaxControlToolkit.resources.dll
+C:\Users\Sebastian\Desktop\Tp Sabado 6-8\Tp Para continuar\TpPaginaVentasPC(16-7)\TpPaginaVentasPC\bin\ja\AjaxControlToolkit.resources.dll
+C:\Users\Sebastian\Desktop\Tp Sabado 6-8\Tp Para continuar\TpPaginaVentasPC(16-7)\TpPaginaVentasPC\bin\ko\AjaxControlToolkit.resources.dll
+C:\Users\Sebastian\Desktop\Tp Sabado 6-8\Tp Para continuar\TpPaginaVentasPC(16-7)\TpPaginaVentasPC\bin\nl\AjaxControlToolkit.resources.dll
+C:\Users\Sebastian\Desktop\Tp Sabado 6-8\Tp Para continuar\TpPaginaVentasPC(16-7)\TpPaginaVentasPC\bin\pt\AjaxControlToolkit.resources.dll
+C:\Users\Sebastian\Desktop\Tp Sabado 6-8\Tp Para continuar\TpPaginaVentasPC(16-7)\TpPaginaVentasPC\bin\ru\AjaxControlToolkit.resources.dll
+C:\Users\Sebastian\Desktop\Tp Sabado 6-8\Tp Para continuar\TpPaginaVentasPC(16-7)\TpPaginaVentasPC\bin\tr-TR\AjaxControlToolkit.resources.dll
+C:\Users\Sebastian\Desktop\Tp Sabado 6-8\Tp Para continuar\TpPaginaVentasPC(16-7)\TpPaginaVentasPC\bin\zh-CHS\AjaxControlToolkit.resources.dll
+C:\Users\Sebastian\Desktop\Tp Sabado 6-8\Tp Para continuar\TpPaginaVentasPC(16-7)\TpPaginaVentasPC\bin\zh-CHT\AjaxControlToolkit.resources.dll
+C:\Users\Sebastian\Desktop\Tp Sabado 6-8\Tp Para continuar\TpPaginaVentasPC(16-7)\TpPaginaVentasPC\obj\Debug\TpPaginaVentasPC.vbprojResolveAssemblyReference.cache
+C:\Users\Sebastian\Desktop\Tp Sabado 6-8\Tp Para continuar\TpPaginaVentasPC(16-7)\TpPaginaVentasPC\obj\Debug\TpPaginaVentasPC.Resources.resources
+C:\Users\Sebastian\Desktop\Tp Sabado 6-8\Tp Para continuar\TpPaginaVentasPC(16-7)\TpPaginaVentasPC\obj\Debug\TpPaginaVentasPC.vbproj.GenerateResource.Cache
+C:\Users\Sebastian\Desktop\Tp Sabado 6-8\Tp Para continuar\TpPaginaVentasPC(16-7)\TpPaginaVentasPC\obj\Debug\TpPaginaVentasPC.dll
+C:\Users\Sebastian\Desktop\Tp Sabado 6-8\Tp Para continuar\TpPaginaVentasPC(16-7)\TpPaginaVentasPC\obj\Debug\TpPaginaVentasPC.xml
+C:\Users\Sebastian\Desktop\Tp Sabado 6-8\Tp Para continuar\TpPaginaVentasPC(16-7)\TpPaginaVentasPC\obj\Debug\TpPaginaVentasPC.pdb
+C:\Users\Sebastian\Desktop\Tp Sabado 8-8\Tp Para continuar\TpPaginaVentasPC(16-7)\TpPaginaVentasPC\bin\TpPaginaVentasPC.dll
+C:\Users\Sebastian\Desktop\Tp Sabado 8-8\Tp Para continuar\TpPaginaVentasPC(16-7)\TpPaginaVentasPC\bin\TpPaginaVentasPC.pdb
+C:\Users\Sebastian\Desktop\Tp Sabado 8-8\Tp Para continuar\TpPaginaVentasPC(16-7)\TpPaginaVentasPC\bin\TpPaginaVentasPC.xml
+C:\Users\Sebastian\Desktop\Tp Sabado 8-8\Tp Para continuar\TpPaginaVentasPC(16-7)\TpPaginaVentasPC\bin\Datos.exe
+C:\Users\Sebastian\Desktop\Tp Sabado 8-8\Tp Para continuar\TpPaginaVentasPC(16-7)\TpPaginaVentasPC\bin\Entidades.exe
+C:\Users\Sebastian\Desktop\Tp Sabado 8-8\Tp Para continuar\TpPaginaVentasPC(16-7)\TpPaginaVentasPC\bin\Negocioo.exe
+C:\Users\Sebastian\Desktop\Tp Sabado 8-8\Tp Para continuar\TpPaginaVentasPC(16-7)\TpPaginaVentasPC\bin\Datos.pdb
+C:\Users\Sebastian\Desktop\Tp Sabado 8-8\Tp Para continuar\TpPaginaVentasPC(16-7)\TpPaginaVentasPC\bin\Datos.xml
+C:\Users\Sebastian\Desktop\Tp Sabado 8-8\Tp Para continuar\TpPaginaVentasPC(16-7)\TpPaginaVentasPC\bin\Entidades.pdb
+C:\Users\Sebastian\Desktop\Tp Sabado 8-8\Tp Para continuar\TpPaginaVentasPC(16-7)\TpPaginaVentasPC\bin\Entidades.xml
+C:\Users\Sebastian\Desktop\Tp Sabado 8-8\Tp Para continuar\TpPaginaVentasPC(16-7)\TpPaginaVentasPC\bin\Negocioo.pdb
+C:\Users\Sebastian\Desktop\Tp Sabado 8-8\Tp Para continuar\TpPaginaVentasPC(16-7)\TpPaginaVentasPC\bin\Negocioo.xml
+C:\Users\Sebastian\Desktop\Tp Sabado 8-8\Tp Para continuar\TpPaginaVentasPC(16-7)\TpPaginaVentasPC\bin\AjaxControlToolkit.pdb
+C:\Users\Sebastian\Desktop\Tp Sabado 8-8\Tp Para continuar\TpPaginaVentasPC(16-7)\TpPaginaVentasPC\bin\ar\AjaxControlToolkit.resources.dll
+C:\Users\Sebastian\Desktop\Tp Sabado 8-8\Tp Para continuar\TpPaginaVentasPC(16-7)\TpPaginaVentasPC\bin\cs\AjaxControlToolkit.resources.dll
+C:\Users\Sebastian\Desktop\Tp Sabado 8-8\Tp Para continuar\TpPaginaVentasPC(16-7)\TpPaginaVentasPC\bin\de\AjaxControlToolkit.resources.dll
+C:\Users\Sebastian\Desktop\Tp Sabado 8-8\Tp Para continuar\TpPaginaVentasPC(16-7)\TpPaginaVentasPC\bin\es\AjaxControlToolkit.resources.dll
+C:\Users\Sebastian\Desktop\Tp Sabado 8-8\Tp Para continuar\TpPaginaVentasPC(16-7)\TpPaginaVentasPC\bin\fr\AjaxControlToolkit.resources.dll
+C:\Users\Sebastian\Desktop\Tp Sabado 8-8\Tp Para continuar\TpPaginaVentasPC(16-7)\TpPaginaVentasPC\bin\he\AjaxControlToolkit.resources.dll
+C:\Users\Sebastian\Desktop\Tp Sabado 8-8\Tp Para continuar\TpPaginaVentasPC(16-7)\TpPaginaVentasPC\bin\hi\AjaxControlToolkit.resources.dll
+C:\Users\Sebastian\Desktop\Tp Sabado 8-8\Tp Para continuar\TpPaginaVentasPC(16-7)\TpPaginaVentasPC\bin\it\AjaxControlToolkit.resources.dll
+C:\Users\Sebastian\Desktop\Tp Sabado 8-8\Tp Para continuar\TpPaginaVentasPC(16-7)\TpPaginaVentasPC\bin\ja\AjaxControlToolkit.resources.dll
+C:\Users\Sebastian\Desktop\Tp Sabado 8-8\Tp Para continuar\TpPaginaVentasPC(16-7)\TpPaginaVentasPC\bin\ko\AjaxControlToolkit.resources.dll
+C:\Users\Sebastian\Desktop\Tp Sabado 8-8\Tp Para continuar\TpPaginaVentasPC(16-7)\TpPaginaVentasPC\bin\nl\AjaxControlToolkit.resources.dll
+C:\Users\Sebastian\Desktop\Tp Sabado 8-8\Tp Para continuar\TpPaginaVentasPC(16-7)\TpPaginaVentasPC\bin\pt\AjaxControlToolkit.resources.dll
+C:\Users\Sebastian\Desktop\Tp Sabado 8-8\Tp Para continuar\TpPaginaVentasPC(16-7)\TpPaginaVentasPC\bin\ru\AjaxControlToolkit.resources.dll
+C:\Users\Sebastian\Desktop\Tp Sabado 8-8\Tp Para continuar\TpPaginaVentasPC(16-7)\TpPaginaVentasPC\bin\tr-TR\AjaxControlToolkit.resources.dll
+C:\Users\Sebastian\Desktop\Tp Sabado 8-8\Tp Para continuar\TpPaginaVentasPC(16-7)\TpPaginaVentasPC\bin\zh-CHS\AjaxControlToolkit.resources.dll
+C:\Users\Sebastian\Desktop\Tp Sabado 8-8\Tp Para continuar\TpPaginaVentasPC(16-7)\TpPaginaVentasPC\bin\zh-CHT\AjaxControlToolkit.resources.dll
+C:\Users\Sebastian\Desktop\Tp Sabado 8-8\Tp Para continuar\TpPaginaVentasPC(16-7)\TpPaginaVentasPC\obj\Debug\TpPaginaVentasPC.vbprojResolveAssemblyReference.cache
+C:\Users\Sebastian\Desktop\Tp Sabado 8-8\Tp Para continuar\TpPaginaVentasPC(16-7)\TpPaginaVentasPC\obj\Debug\TpPaginaVentasPC.Resources.resources
+C:\Users\Sebastian\Desktop\Tp Sabado 8-8\Tp Para continuar\TpPaginaVentasPC(16-7)\TpPaginaVentasPC\obj\Debug\TpPaginaVentasPC.vbproj.GenerateResource.Cache
+C:\Users\Sebastian\Desktop\Tp Sabado 8-8\Tp Para continuar\TpPaginaVentasPC(16-7)\TpPaginaVentasPC\obj\Debug\TpPaginaVentasPC.dll
+C:\Users\Sebastian\Desktop\Tp Sabado 8-8\Tp Para continuar\TpPaginaVentasPC(16-7)\TpPaginaVentasPC\obj\Debug\TpPaginaVentasPC.xml
+C:\Users\Sebastian\Desktop\Tp Sabado 8-8\Tp Para continuar\TpPaginaVentasPC(16-7)\TpPaginaVentasPC\obj\Debug\TpPaginaVentasPC.pdb
+C:\Users\Sebastian\Desktop\Tp Sabado Finalizado\Tp Para continuar\TpPaginaVentasPC(16-7)\TpPaginaVentasPC\obj\Debug\TpPaginaVentasPC.vbprojResolveAssemblyReference.cache
+C:\Users\Sebastian\Desktop\Tp Sabado Finalizado\Tp Para continuar\TpPaginaVentasPC(16-7)\TpPaginaVentasPC\obj\Debug\TpPaginaVentasPC.Resources.resources
+C:\Users\Sebastian\Desktop\Tp Sabado Finalizado\Tp Para continuar\TpPaginaVentasPC(16-7)\TpPaginaVentasPC\obj\Debug\TpPaginaVentasPC.vbproj.GenerateResource.Cache
+C:\Users\Sebastian\Desktop\Tp Sabado Finalizado\Tp Para continuar\TpPaginaVentasPC(16-7)\TpPaginaVentasPC\obj\Debug\TpPaginaVentasPC.dll
+C:\Users\Sebastian\Desktop\Tp Sabado Finalizado\Tp Para continuar\TpPaginaVentasPC(16-7)\TpPaginaVentasPC\obj\Debug\TpPaginaVentasPC.xml
+C:\Users\Sebastian\Desktop\Tp Sabado Finalizado\Tp Para continuar\TpPaginaVentasPC(16-7)\TpPaginaVentasPC\obj\Debug\TpPaginaVentasPC.pdb
+C:\Users\Sebastian\Desktop\Tp Sabado Finalizado\Tp Para continuar\TpPaginaVentasPC(16-7)\TpPaginaVentasPC\bin\TpPaginaVentasPC.dll
+C:\Users\Sebastian\Desktop\Tp Sabado Finalizado\Tp Para continuar\TpPaginaVentasPC(16-7)\TpPaginaVentasPC\bin\TpPaginaVentasPC.pdb
+C:\Users\Sebastian\Desktop\Tp Sabado Finalizado\Tp Para continuar\TpPaginaVentasPC(16-7)\TpPaginaVentasPC\bin\TpPaginaVentasPC.xml
+C:\Users\Sebastian\Desktop\Tp Sabado Finalizado\Tp Para continuar\TpPaginaVentasPC(16-7)\TpPaginaVentasPC\bin\Datos.exe
+C:\Users\Sebastian\Desktop\Tp Sabado Finalizado\Tp Para continuar\TpPaginaVentasPC(16-7)\TpPaginaVentasPC\bin\Entidades.exe
+C:\Users\Sebastian\Desktop\Tp Sabado Finalizado\Tp Para continuar\TpPaginaVentasPC(16-7)\TpPaginaVentasPC\bin\Negocioo.exe
+C:\Users\Sebastian\Desktop\Tp Sabado Finalizado\Tp Para continuar\TpPaginaVentasPC(16-7)\TpPaginaVentasPC\bin\Datos.pdb
+C:\Users\Sebastian\Desktop\Tp Sabado Finalizado\Tp Para continuar\TpPaginaVentasPC(16-7)\TpPaginaVentasPC\bin\Datos.xml
+C:\Users\Sebastian\Desktop\Tp Sabado Finalizado\Tp Para continuar\TpPaginaVentasPC(16-7)\TpPaginaVentasPC\bin\Entidades.pdb
+C:\Users\Sebastian\Desktop\Tp Sabado Finalizado\Tp Para continuar\TpPaginaVentasPC(16-7)\TpPaginaVentasPC\bin\Entidades.xml
+C:\Users\Sebastian\Desktop\Tp Sabado Finalizado\Tp Para continuar\TpPaginaVentasPC(16-7)\TpPaginaVentasPC\bin\Negocioo.pdb
+C:\Users\Sebastian\Desktop\Tp Sabado Finalizado\Tp Para continuar\TpPaginaVentasPC(16-7)\TpPaginaVentasPC\bin\Negocioo.xml
+C:\Users\Sebastian\Desktop\Tp Sabado Finalizado\Tp Para continuar\TpPaginaVentasPC(16-7)\TpPaginaVentasPC\bin\AjaxControlToolkit.pdb
+C:\Users\Sebastian\Desktop\Tp Sabado Finalizado\Tp Para continuar\TpPaginaVentasPC(16-7)\TpPaginaVentasPC\bin\ar\AjaxControlToolkit.resources.dll
+C:\Users\Sebastian\Desktop\Tp Sabado Finalizado\Tp Para continuar\TpPaginaVentasPC(16-7)\TpPaginaVentasPC\bin\cs\AjaxControlToolkit.resources.dll
+C:\Users\Sebastian\Desktop\Tp Sabado Finalizado\Tp Para continuar\TpPaginaVentasPC(16-7)\TpPaginaVentasPC\bin\de\AjaxControlToolkit.resources.dll
+C:\Users\Sebastian\Desktop\Tp Sabado Finalizado\Tp Para continuar\TpPaginaVentasPC(16-7)\TpPaginaVentasPC\bin\es\AjaxControlToolkit.resources.dll
+C:\Users\Sebastian\Desktop\Tp Sabado Finalizado\Tp Para continuar\TpPaginaVentasPC(16-7)\TpPaginaVentasPC\bin\fr\AjaxControlToolkit.resources.dll
+C:\Users\Sebastian\Desktop\Tp Sabado Finalizado\Tp Para continuar\TpPaginaVentasPC(16-7)\TpPaginaVentasPC\bin\he\AjaxControlToolkit.resources.dll
+C:\Users\Sebastian\Desktop\Tp Sabado Finalizado\Tp Para continuar\TpPaginaVentasPC(16-7)\TpPaginaVentasPC\bin\hi\AjaxControlToolkit.resources.dll
+C:\Users\Sebastian\Desktop\Tp Sabado Finalizado\Tp Para continuar\TpPaginaVentasPC(16-7)\TpPaginaVentasPC\bin\it\AjaxControlToolkit.resources.dll
+C:\Users\Sebastian\Desktop\Tp Sabado Finalizado\Tp Para continuar\TpPaginaVentasPC(16-7)\TpPaginaVentasPC\bin\ja\AjaxControlToolkit.resources.dll
+C:\Users\Sebastian\Desktop\Tp Sabado Finalizado\Tp Para continuar\TpPaginaVentasPC(16-7)\TpPaginaVentasPC\bin\ko\AjaxControlToolkit.resources.dll
+C:\Users\Sebastian\Desktop\Tp Sabado Finalizado\Tp Para continuar\TpPaginaVentasPC(16-7)\TpPaginaVentasPC\bin\nl\AjaxControlToolkit.resources.dll
+C:\Users\Sebastian\Desktop\Tp Sabado Finalizado\Tp Para continuar\TpPaginaVentasPC(16-7)\TpPaginaVentasPC\bin\pt\AjaxControlToolkit.resources.dll
+C:\Users\Sebastian\Desktop\Tp Sabado Finalizado\Tp Para continuar\TpPaginaVentasPC(16-7)\TpPaginaVentasPC\bin\ru\AjaxControlToolkit.resources.dll
+C:\Users\Sebastian\Desktop\Tp Sabado Finalizado\Tp Para continuar\TpPaginaVentasPC(16-7)\TpPaginaVentasPC\bin\tr-TR\AjaxControlToolkit.resources.dll
+C:\Users\Sebastian\Desktop\Tp Sabado Finalizado\Tp Para continuar\TpPaginaVentasPC(16-7)\TpPaginaVentasPC\bin\zh-CHS\AjaxControlToolkit.resources.dll
+C:\Users\Sebastian\Desktop\Tp Sabado Finalizado\Tp Para continuar\TpPaginaVentasPC(16-7)\TpPaginaVentasPC\bin\zh-CHT\AjaxControlToolkit.resources.dll

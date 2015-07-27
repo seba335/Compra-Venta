@@ -1,0 +1,105 @@
+D:\practica 2\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\Entidades\obj\x86\Debug\Entidades.Resources.resources
+D:\practica 2\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\Entidades\obj\x86\Debug\Entidades.vbproj.GenerateResource.Cache
+D:\practica 2\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\Entidades\bin\Debug\Entidades.exe
+D:\practica 2\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\Entidades\bin\Debug\Entidades.pdb
+D:\practica 2\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\Entidades\bin\Debug\Entidades.xml
+D:\practica 2\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\Entidades\obj\x86\Debug\Entidades.exe
+D:\practica 2\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\Entidades\obj\x86\Debug\Entidades.xml
+D:\practica 2\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\Entidades\obj\x86\Debug\Entidades.pdb
+C:\Users\cristian\Desktop\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\Entidades\bin\Debug\Entidades.exe
+C:\Users\cristian\Desktop\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\Entidades\bin\Debug\Entidades.pdb
+C:\Users\cristian\Desktop\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\Entidades\bin\Debug\Entidades.xml
+C:\Users\cristian\Desktop\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\Entidades\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\cristian\Desktop\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\Entidades\obj\x86\Debug\Entidades.Resources.resources
+C:\Users\cristian\Desktop\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\Entidades\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\cristian\Desktop\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\Entidades\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\cristian\Desktop\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\Entidades\obj\x86\Debug\Entidades.exe
+C:\Users\cristian\Desktop\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\Entidades\obj\x86\Debug\Entidades.xml
+C:\Users\cristian\Desktop\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\Entidades\obj\x86\Debug\Entidades.pdb
+C:\Users\Sebastian\Desktop\Cris\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\Entidades\bin\Debug\Entidades.exe
+C:\Users\Sebastian\Desktop\Cris\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Sebastian\Desktop\Cris\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\Entidades\bin\Debug\Entidades.xml
+C:\Users\Sebastian\Desktop\Cris\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\Entidades\obj\x86\Debug\Entidades.Resources.resources
+C:\Users\Sebastian\Desktop\Cris\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\Entidades\obj\x86\Debug\Entidades.vbproj.GenerateResource.Cache
+C:\Users\Sebastian\Desktop\Cris\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\Entidades\obj\x86\Debug\Entidades.exe
+C:\Users\Sebastian\Desktop\Cris\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\Entidades\obj\x86\Debug\Entidades.xml
+C:\Users\Sebastian\Desktop\Cris\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\Entidades\obj\x86\Debug\Entidades.pdb
+C:\Users\Sebastian\Desktop\Nueva carpeta\Base Actual 23-6\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\Entidades\bin\Debug\Entidades.exe
+C:\Users\Sebastian\Desktop\Nueva carpeta\Base Actual 23-6\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Sebastian\Desktop\Nueva carpeta\Base Actual 23-6\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\Entidades\bin\Debug\Entidades.xml
+C:\Users\Sebastian\Desktop\Nueva carpeta\Base Actual 23-6\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\Entidades\obj\x86\Debug\Entidades.Resources.resources
+C:\Users\Sebastian\Desktop\Nueva carpeta\Base Actual 23-6\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\Entidades\obj\x86\Debug\Entidades.vbproj.GenerateResource.Cache
+C:\Users\Sebastian\Desktop\Nueva carpeta\Base Actual 23-6\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\Entidades\obj\x86\Debug\Entidades.exe
+C:\Users\Sebastian\Desktop\Nueva carpeta\Base Actual 23-6\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\Entidades\obj\x86\Debug\Entidades.xml
+C:\Users\Sebastian\Desktop\Nueva carpeta\Base Actual 23-6\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\Entidades\obj\x86\Debug\Entidades.pdb
+F:\practica 2\Base Actual 23-6\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\Entidades\bin\Debug\Entidades.exe
+F:\practica 2\Base Actual 23-6\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\Entidades\bin\Debug\Entidades.pdb
+F:\practica 2\Base Actual 23-6\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\Entidades\bin\Debug\Entidades.xml
+F:\practica 2\Base Actual 23-6\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\Entidades\obj\x86\Debug\Entidades.Resources.resources
+F:\practica 2\Base Actual 23-6\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\Entidades\obj\x86\Debug\Entidades.vbproj.GenerateResource.Cache
+F:\practica 2\Base Actual 23-6\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\Entidades\obj\x86\Debug\Entidades.exe
+F:\practica 2\Base Actual 23-6\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\Entidades\obj\x86\Debug\Entidades.xml
+F:\practica 2\Base Actual 23-6\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\Entidades\obj\x86\Debug\Entidades.pdb
+C:\Users\Sebastian\Desktop\practica 2(25-6)\Base Actual 23-6\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\Entidades\bin\Debug\Entidades.exe
+C:\Users\Sebastian\Desktop\practica 2(25-6)\Base Actual 23-6\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Sebastian\Desktop\practica 2(25-6)\Base Actual 23-6\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\Entidades\bin\Debug\Entidades.xml
+C:\Users\Sebastian\Desktop\practica 2(25-6)\Base Actual 23-6\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\Entidades\obj\x86\Debug\Entidades.vbprojResolveAssemblyReference.cache
+C:\Users\Sebastian\Desktop\practica 2(25-6)\Base Actual 23-6\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\Entidades\obj\x86\Debug\Entidades.Resources.resources
+C:\Users\Sebastian\Desktop\practica 2(25-6)\Base Actual 23-6\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\Entidades\obj\x86\Debug\Entidades.vbproj.GenerateResource.Cache
+C:\Users\Sebastian\Desktop\practica 2(25-6)\Base Actual 23-6\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\Entidades\obj\x86\Debug\Entidades.exe
+C:\Users\Sebastian\Desktop\practica 2(25-6)\Base Actual 23-6\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\Entidades\obj\x86\Debug\Entidades.xml
+C:\Users\Sebastian\Desktop\practica 2(25-6)\Base Actual 23-6\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\Entidades\obj\x86\Debug\Entidades.pdb
+C:\Users\Sebastian\Desktop\practica 2(30-7)\Base Actual 23-6\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\Entidades\bin\Debug\Entidades.exe
+C:\Users\Sebastian\Desktop\practica 2(30-7)\Base Actual 23-6\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Sebastian\Desktop\practica 2(30-7)\Base Actual 23-6\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\Entidades\bin\Debug\Entidades.xml
+C:\Users\Sebastian\Desktop\practica 2(30-7)\Base Actual 23-6\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\Entidades\obj\x86\Debug\Entidades.vbprojResolveAssemblyReference.cache
+C:\Users\Sebastian\Desktop\practica 2(30-7)\Base Actual 23-6\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\Entidades\obj\x86\Debug\Entidades.Resources.resources
+C:\Users\Sebastian\Desktop\practica 2(30-7)\Base Actual 23-6\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\Entidades\obj\x86\Debug\Entidades.vbproj.GenerateResource.Cache
+C:\Users\Sebastian\Desktop\practica 2(30-7)\Base Actual 23-6\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\Entidades\obj\x86\Debug\Entidades.exe
+C:\Users\Sebastian\Desktop\practica 2(30-7)\Base Actual 23-6\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\Entidades\obj\x86\Debug\Entidades.xml
+C:\Users\Sebastian\Desktop\practica 2(30-7)\Base Actual 23-6\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\Entidades\obj\x86\Debug\Entidades.pdb
+C:\Users\Sebastian\Desktop\TpPaginaVentasPC(6-7)\Entidades\bin\Debug\Entidades.exe
+C:\Users\Sebastian\Desktop\TpPaginaVentasPC(6-7)\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Sebastian\Desktop\TpPaginaVentasPC(6-7)\Entidades\bin\Debug\Entidades.xml
+C:\Users\Sebastian\Desktop\TpPaginaVentasPC(6-7)\Entidades\obj\x86\Debug\Entidades.vbprojResolveAssemblyReference.cache
+C:\Users\Sebastian\Desktop\TpPaginaVentasPC(6-7)\Entidades\obj\x86\Debug\Entidades.Resources.resources
+C:\Users\Sebastian\Desktop\TpPaginaVentasPC(6-7)\Entidades\obj\x86\Debug\Entidades.vbproj.GenerateResource.Cache
+C:\Users\Sebastian\Desktop\TpPaginaVentasPC(6-7)\Entidades\obj\x86\Debug\Entidades.exe
+C:\Users\Sebastian\Desktop\TpPaginaVentasPC(6-7)\Entidades\obj\x86\Debug\Entidades.xml
+C:\Users\Sebastian\Desktop\TpPaginaVentasPC(6-7)\Entidades\obj\x86\Debug\Entidades.pdb
+C:\Users\Sebastian\Desktop\Tp Para continuar\TpPaginaVentasPC(16-7)\Entidades\bin\Debug\Entidades.exe
+C:\Users\Sebastian\Desktop\Tp Para continuar\TpPaginaVentasPC(16-7)\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Sebastian\Desktop\Tp Para continuar\TpPaginaVentasPC(16-7)\Entidades\bin\Debug\Entidades.xml
+C:\Users\Sebastian\Desktop\Tp Para continuar\TpPaginaVentasPC(16-7)\Entidades\obj\x86\Debug\Entidades.vbprojResolveAssemblyReference.cache
+C:\Users\Sebastian\Desktop\Tp Para continuar\TpPaginaVentasPC(16-7)\Entidades\obj\x86\Debug\Entidades.Resources.resources
+C:\Users\Sebastian\Desktop\Tp Para continuar\TpPaginaVentasPC(16-7)\Entidades\obj\x86\Debug\Entidades.vbproj.GenerateResource.Cache
+C:\Users\Sebastian\Desktop\Tp Para continuar\TpPaginaVentasPC(16-7)\Entidades\obj\x86\Debug\Entidades.exe
+C:\Users\Sebastian\Desktop\Tp Para continuar\TpPaginaVentasPC(16-7)\Entidades\obj\x86\Debug\Entidades.xml
+C:\Users\Sebastian\Desktop\Tp Para continuar\TpPaginaVentasPC(16-7)\Entidades\obj\x86\Debug\Entidades.pdb
+C:\Users\Sebastian\Desktop\Archivos adjuntos_2014730\Tp Para continuar\TpPaginaVentasPC(16-7)\Entidades\bin\Debug\Entidades.exe
+C:\Users\Sebastian\Desktop\Archivos adjuntos_2014730\Tp Para continuar\TpPaginaVentasPC(16-7)\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Sebastian\Desktop\Archivos adjuntos_2014730\Tp Para continuar\TpPaginaVentasPC(16-7)\Entidades\bin\Debug\Entidades.xml
+C:\Users\Sebastian\Desktop\Archivos adjuntos_2014730\Tp Para continuar\TpPaginaVentasPC(16-7)\Entidades\obj\x86\Debug\Entidades.vbprojResolveAssemblyReference.cache
+C:\Users\Sebastian\Desktop\Archivos adjuntos_2014730\Tp Para continuar\TpPaginaVentasPC(16-7)\Entidades\obj\x86\Debug\Entidades.Resources.resources
+C:\Users\Sebastian\Desktop\Archivos adjuntos_2014730\Tp Para continuar\TpPaginaVentasPC(16-7)\Entidades\obj\x86\Debug\Entidades.vbproj.GenerateResource.Cache
+C:\Users\Sebastian\Desktop\Archivos adjuntos_2014730\Tp Para continuar\TpPaginaVentasPC(16-7)\Entidades\obj\x86\Debug\Entidades.exe
+C:\Users\Sebastian\Desktop\Archivos adjuntos_2014730\Tp Para continuar\TpPaginaVentasPC(16-7)\Entidades\obj\x86\Debug\Entidades.xml
+C:\Users\Sebastian\Desktop\Archivos adjuntos_2014730\Tp Para continuar\TpPaginaVentasPC(16-7)\Entidades\obj\x86\Debug\Entidades.pdb
+C:\Users\Sebastian\Desktop\Tp Sabado 6-8\Tp Para continuar\TpPaginaVentasPC(16-7)\Entidades\bin\Debug\Entidades.exe
+C:\Users\Sebastian\Desktop\Tp Sabado 6-8\Tp Para continuar\TpPaginaVentasPC(16-7)\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Sebastian\Desktop\Tp Sabado 6-8\Tp Para continuar\TpPaginaVentasPC(16-7)\Entidades\bin\Debug\Entidades.xml
+C:\Users\Sebastian\Desktop\Tp Sabado 6-8\Tp Para continuar\TpPaginaVentasPC(16-7)\Entidades\obj\x86\Debug\Entidades.vbprojResolveAssemblyReference.cache
+C:\Users\Sebastian\Desktop\Tp Sabado 6-8\Tp Para continuar\TpPaginaVentasPC(16-7)\Entidades\obj\x86\Debug\Entidades.Resources.resources
+C:\Users\Sebastian\Desktop\Tp Sabado 6-8\Tp Para continuar\TpPaginaVentasPC(16-7)\Entidades\obj\x86\Debug\Entidades.vbproj.GenerateResource.Cache
+C:\Users\Sebastian\Desktop\Tp Sabado 6-8\Tp Para continuar\TpPaginaVentasPC(16-7)\Entidades\obj\x86\Debug\Entidades.exe
+C:\Users\Sebastian\Desktop\Tp Sabado 6-8\Tp Para continuar\TpPaginaVentasPC(16-7)\Entidades\obj\x86\Debug\Entidades.xml
+C:\Users\Sebastian\Desktop\Tp Sabado 6-8\Tp Para continuar\TpPaginaVentasPC(16-7)\Entidades\obj\x86\Debug\Entidades.pdb
+C:\Users\Sebastian\Desktop\Tp Sabado Finalizado\Tp Para continuar\TpPaginaVentasPC(16-7)\Entidades\obj\x86\Debug\Entidades.vbprojResolveAssemblyReference.cache
+C:\Users\Sebastian\Desktop\Tp Sabado Finalizado\Tp Para continuar\TpPaginaVentasPC(16-7)\Entidades\obj\x86\Debug\Entidades.Resources.resources
+C:\Users\Sebastian\Desktop\Tp Sabado Finalizado\Tp Para continuar\TpPaginaVentasPC(16-7)\Entidades\obj\x86\Debug\Entidades.vbproj.GenerateResource.Cache
+C:\Users\Sebastian\Desktop\Tp Sabado Finalizado\Tp Para continuar\TpPaginaVentasPC(16-7)\Entidades\obj\x86\Debug\Entidades.exe
+C:\Users\Sebastian\Desktop\Tp Sabado Finalizado\Tp Para continuar\TpPaginaVentasPC(16-7)\Entidades\obj\x86\Debug\Entidades.xml
+C:\Users\Sebastian\Desktop\Tp Sabado Finalizado\Tp Para continuar\TpPaginaVentasPC(16-7)\Entidades\obj\x86\Debug\Entidades.pdb
+C:\Users\Sebastian\Desktop\Tp Sabado Finalizado\Tp Para continuar\TpPaginaVentasPC(16-7)\Entidades\bin\Debug\Entidades.exe
+C:\Users\Sebastian\Desktop\Tp Sabado Finalizado\Tp Para continuar\TpPaginaVentasPC(16-7)\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Sebastian\Desktop\Tp Sabado Finalizado\Tp Para continuar\TpPaginaVentasPC(16-7)\Entidades\bin\Debug\Entidades.xml

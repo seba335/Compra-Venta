@@ -1,0 +1,2 @@
+D:\practica 2\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\Negocio\obj\x86\Debug\Negocio.Resources.resources
+D:\practica 2\Nueva version tp Sabado 12-6-2014\TpPaginaVentasPC\Negocio\obj\x86\Debug\Negocio.vbproj.GenerateResource.Cache

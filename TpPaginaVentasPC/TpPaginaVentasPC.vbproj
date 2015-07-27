@@ -1,0 +1,750 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>
+    </SchemaVersion>
+    <ProjectGuid>{76E63A98-60F0-4856-A48A-A87F4C5903BB}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{F184B08F-C81C-45F6-A57F-5ABD9991F28F}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <RootNamespace>TpPaginaVentasPC</RootNamespace>
+    <AssemblyName>TpPaginaVentasPC</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <MyType>Custom</MyType>
+    <UseIISExpress>false</UseIISExpress>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\</OutputPath>
+    <DocumentationFile>TpPaginaVentasPC.xml</DocumentationFile>
+    <NoWarn>
+    </NoWarn>
+    <WarningsAsErrors>41999,42016,42017,42018,42019,42020,42021,42022,42032,42036</WarningsAsErrors>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DocumentationFile>TpPaginaVentasPC.xml</DocumentationFile>
+    <NoWarn>
+    </NoWarn>
+    <WarningsAsErrors>41999,42016,42017,42018,42019,42020,42021,42022,42032,42036</WarningsAsErrors>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>On</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AjaxControlToolkit, Version=4.1.50508.0, Culture=neutral, PublicKeyToken=28f01b0e84b6d53e, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Web.ApplicationServices" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Collections.Specialized" />
+    <Import Include="System.Configuration" />
+    <Import Include="System.Text" />
+    <Import Include="System.Text.RegularExpressions" />
+    <Import Include="System.Web" />
+    <Import Include="System.Web.Caching" />
+    <Import Include="System.Web.SessionState" />
+    <Import Include="System.Web.Security" />
+    <Import Include="System.Web.Profile" />
+    <Import Include="System.Web.UI" />
+    <Import Include="System.Web.UI.WebControls" />
+    <Import Include="System.Web.UI.WebControls.WebParts" />
+    <Import Include="System.Web.UI.HtmlControls" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="About.aspx" />
+    <Content Include="Account\ChangePassword.aspx" />
+    <Content Include="Account\ChangePasswordSuccess.aspx" />
+    <Content Include="Account\Login.aspx" />
+    <Content Include="Account\Register.aspx" />
+    <Content Include="FormAdminAltaEmpleado.aspx" />
+    <Content Include="FormAdminAltaLocalidad.aspx" />
+    <Content Include="FormAdminAltaModelo.aspx" />
+    <Content Include="FormAdminAltaPiezas.aspx" />
+    <Content Include="FormAdminAltaZona.aspx" />
+    <Content Include="FormAdminArmado.aspx" />
+    <Content Include="FormAdminEmpleados.aspx" />
+    <Content Include="FormAdminLocalidades.aspx" />
+    <Content Include="FormAdminModelos.aspx" />
+    <Content Include="FormAdminModelosAsociados.aspx" />
+    <Content Include="FormAdminModEmpleado.aspx" />
+    <Content Include="FormAdminModificarModelo.aspx" />
+    <Content Include="FormAdminNotaDetalle.aspx" />
+    <Content Include="FormAdminNotas.aspx" />
+    <Content Include="FormAdminPiezas.aspx" />
+    <Content Include="FormAdminPrncipal.aspx" />
+    <Content Include="FormAdminReserva.aspx" />
+    <Content Include="FormAdminZonas.aspx" />
+    <Content Include="FormAltaProv.aspx" />
+    <Content Include="FormAltaTarjeta.aspx" />
+    <Content Include="FormArmadoFaltantes.aspx" />
+    <Content Include="FormArmadoPrincipal.aspx" />
+    <Content Include="FormClienteMod.aspx" />
+    <Content Include="FormClienteModPorEmpleado.aspx" />
+    <Content Include="FormClientePrincipal.aspx" />
+    <Content Include="FormClientePrincipalF.aspx" />
+    <Content Include="FormClienteReg.aspx" />
+    <Content Include="FormClienteRegPorEmpleado.aspx" />
+    <Content Include="FormCompras.aspx" />
+    <Content Include="FormDetalleCompraProv.aspx" />
+    <Content Include="FormDetalleReserva.aspx" />
+    <Content Include="FormDetalles.aspx" />
+    <Content Include="FormDetallesCliente.aspx" />
+    <Content Include="FormDetalleVenta.aspx" />
+    <Content Include="FormDetalleVentaReserva.aspx" />
+    <Content Include="FormEmpVentPrincipal.aspx" />
+    <Content Include="FormEnvio.aspx" />
+    <Content Include="FormEnvioDetalles.aspx" />
+    <Content Include="FormListadeClientes.aspx" />
+    <Content Include="FormListadeCompras.aspx" />
+    <Content Include="FormListadeComprasaProv.aspx" />
+    <Content Include="FormListadeElementosVendidos.aspx" />
+    <Content Include="FormListadeReservas.aspx" />
+    <Content Include="FormLogueo.aspx" />
+    <Content Include="FormNotaAdmin.aspx" />
+    <Content Include="FormPago.aspx" />
+    <Content Include="FormPagoCompletarReserva.aspx" />
+    <Content Include="FormPagoPorReserva.aspx" />
+    <Content Include="FormPedidoporFaltante.aspx" />
+    <Content Include="FormRegExitoso.aspx" />
+    <Content Include="FormRegistrodePiezas.aspx" />
+    <Content Include="FormRegistrodePiezasDetalle.aspx" />
+    <Content Include="FormRegistrodePiezasFaltantes.aspx" />
+    <Content Include="FormRegistroPagos.aspx" />
+    <Content Include="FormReserva.aspx" />
+    <Content Include="FormReservaCliente.aspx" />
+    <Content Include="FormVentaCliente.aspx" />
+    <Content Include="FormVentas.aspx" />
+    <Content Include="Funciones.js" />
+    <Content Include="Imagenes\logo.JPG" />
+    <Content Include="Imagenes\pc-cpu-dell.jpg" />
+    <Content Include="Imagenes\pc-cpu-intel-i5.jpg" />
+    <Content Include="Imagenes\pc-ultra.jpg" />
+    <Content Include="Styles\Site.css" />
+    <Content Include="Default.aspx" />
+    <Content Include="Global.asax" />
+    <Content Include="Scripts\jquery-1.4.1-vsdoc.js" />
+    <Content Include="Scripts\jquery-1.4.1.js" />
+    <Content Include="Scripts\jquery-1.4.1.min.js" />
+    <Content Include="Web.config" />
+    <Content Include="Web.Debug.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </Content>
+    <Content Include="Web.Release.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="About.aspx.designer.vb">
+      <DependentUpon>About.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="About.aspx.vb">
+      <DependentUpon>About.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="Account\ChangePassword.aspx.designer.vb">
+      <DependentUpon>ChangePassword.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Account\ChangePassword.aspx.vb">
+      <DependentUpon>ChangePassword.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="Account\ChangePasswordSuccess.aspx.designer.vb">
+      <DependentUpon>ChangePasswordSuccess.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Account\ChangePasswordSuccess.aspx.vb">
+      <DependentUpon>ChangePasswordSuccess.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="Account\Login.aspx.designer.vb">
+      <DependentUpon>Login.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Account\Login.aspx.vb">
+      <DependentUpon>Login.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="Account\Register.aspx.designer.vb">
+      <DependentUpon>Register.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Account\Register.aspx.vb">
+      <DependentUpon>Register.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="Default.aspx.vb">
+      <SubType>ASPXCodeBehind</SubType>
+      <DependentUpon>Default.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Default.aspx.designer.vb">
+      <DependentUpon>Default.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="FormAdminAltaEmpleado.aspx.designer.vb">
+      <DependentUpon>FormAdminAltaEmpleado.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="FormAdminAltaEmpleado.aspx.vb">
+      <DependentUpon>FormAdminAltaEmpleado.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="FormAdminAltaLocalidad.aspx.designer.vb">
+      <DependentUpon>FormAdminAltaLocalidad.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="FormAdminAltaLocalidad.aspx.vb">
+      <DependentUpon>FormAdminAltaLocalidad.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="FormAdminAltaModelo.aspx.designer.vb">
+      <DependentUpon>FormAdminAltaModelo.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="FormAdminAltaModelo.aspx.vb">
+      <DependentUpon>FormAdminAltaModelo.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="FormAdminAltaPiezas.aspx.designer.vb">
+      <DependentUpon>FormAdminAltaPiezas.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="FormAdminAltaPiezas.aspx.vb">
+      <DependentUpon>FormAdminAltaPiezas.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="FormAdminAltaZona.aspx.designer.vb">
+      <DependentUpon>FormAdminAltaZona.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="FormAdminAltaZona.aspx.vb">
+      <DependentUpon>FormAdminAltaZona.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="FormAdminArmado.aspx.designer.vb">
+      <DependentUpon>FormAdminArmado.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="FormAdminArmado.aspx.vb">
+      <DependentUpon>FormAdminArmado.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="FormAdminEmpleados.aspx.designer.vb">
+      <DependentUpon>FormAdminEmpleados.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="FormAdminEmpleados.aspx.vb">
+      <DependentUpon>FormAdminEmpleados.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="FormAdminLocalidades.aspx.designer.vb">
+      <DependentUpon>FormAdminLocalidades.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="FormAdminLocalidades.aspx.vb">
+      <DependentUpon>FormAdminLocalidades.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="FormAdminModelos.aspx.designer.vb">
+      <DependentUpon>FormAdminModelos.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="FormAdminModelos.aspx.vb">
+      <DependentUpon>FormAdminModelos.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="FormAdminModelosAsociados.aspx.designer.vb">
+      <DependentUpon>FormAdminModelosAsociados.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="FormAdminModelosAsociados.aspx.vb">
+      <DependentUpon>FormAdminModelosAsociados.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="FormAdminModEmpleado.aspx.designer.vb">
+      <DependentUpon>FormAdminModEmpleado.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="FormAdminModEmpleado.aspx.vb">
+      <DependentUpon>FormAdminModEmpleado.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="FormAdminModificarModelo.aspx.designer.vb">
+      <DependentUpon>FormAdminModificarModelo.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="FormAdminModificarModelo.aspx.vb">
+      <DependentUpon>FormAdminModificarModelo.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="FormAdminNotaDetalle.aspx.designer.vb">
+      <DependentUpon>FormAdminNotaDetalle.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="FormAdminNotaDetalle.aspx.vb">
+      <DependentUpon>FormAdminNotaDetalle.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="FormAdminNotas.aspx.designer.vb">
+      <DependentUpon>FormAdminNotas.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="FormAdminNotas.aspx.vb">
+      <DependentUpon>FormAdminNotas.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="FormAdminPiezas.aspx.designer.vb">
+      <DependentUpon>FormAdminPiezas.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="FormAdminPiezas.aspx.vb">
+      <DependentUpon>FormAdminPiezas.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="FormAdminPrncipal.aspx.designer.vb">
+      <DependentUpon>FormAdminPrncipal.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="FormAdminPrncipal.aspx.vb">
+      <DependentUpon>FormAdminPrncipal.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="FormAdminReserva.aspx.designer.vb">
+      <DependentUpon>FormAdminReserva.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="FormAdminReserva.aspx.vb">
+      <DependentUpon>FormAdminReserva.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="FormAdminZonas.aspx.designer.vb">
+      <DependentUpon>FormAdminZonas.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="FormAdminZonas.aspx.vb">
+      <DependentUpon>FormAdminZonas.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="FormAltaProv.aspx.designer.vb">
+      <DependentUpon>FormAltaProv.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="FormAltaProv.aspx.vb">
+      <DependentUpon>FormAltaProv.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="FormAltaTarjeta.aspx.designer.vb">
+      <DependentUpon>FormAltaTarjeta.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="FormAltaTarjeta.aspx.vb">
+      <DependentUpon>FormAltaTarjeta.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="FormArmadoFaltantes.aspx.designer.vb">
+      <DependentUpon>FormArmadoFaltantes.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="FormArmadoFaltantes.aspx.vb">
+      <DependentUpon>FormArmadoFaltantes.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="FormArmadoPrincipal.aspx.designer.vb">
+      <DependentUpon>FormArmadoPrincipal.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="FormArmadoPrincipal.aspx.vb">
+      <DependentUpon>FormArmadoPrincipal.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="FormClienteMod.aspx.designer.vb">
+      <DependentUpon>FormClienteMod.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="FormClienteMod.aspx.vb">
+      <DependentUpon>FormClienteMod.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="FormClienteModPorEmpleado.aspx.designer.vb">
+      <DependentUpon>FormClienteModPorEmpleado.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="FormClienteModPorEmpleado.aspx.vb">
+      <DependentUpon>FormClienteModPorEmpleado.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="FormClientePrincipal.aspx.designer.vb">
+      <DependentUpon>FormClientePrincipal.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="FormClientePrincipal.aspx.vb">
+      <DependentUpon>FormClientePrincipal.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="FormClientePrincipalF.aspx.designer.vb">
+      <DependentUpon>FormClientePrincipalF.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="FormClientePrincipalF.aspx.vb">
+      <DependentUpon>FormClientePrincipalF.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="FormClienteReg.aspx.designer.vb">
+      <DependentUpon>FormClienteReg.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="FormClienteReg.aspx.vb">
+      <DependentUpon>FormClienteReg.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="FormClienteRegPorEmpleado.aspx.designer.vb">
+      <DependentUpon>FormClienteRegPorEmpleado.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="FormClienteRegPorEmpleado.aspx.vb">
+      <DependentUpon>FormClienteRegPorEmpleado.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="FormCompras.aspx.designer.vb">
+      <DependentUpon>FormCompras.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="FormCompras.aspx.vb">
+      <DependentUpon>FormCompras.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="FormDetalleCompraProv.aspx.designer.vb">
+      <DependentUpon>FormDetalleCompraProv.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="FormDetalleCompraProv.aspx.vb">
+      <DependentUpon>FormDetalleCompraProv.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="FormDetalleReserva.aspx.designer.vb">
+      <DependentUpon>FormDetalleReserva.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="FormDetalleReserva.aspx.vb">
+      <DependentUpon>FormDetalleReserva.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="FormDetalles.aspx.designer.vb">
+      <DependentUpon>FormDetalles.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="FormDetalles.aspx.vb">
+      <DependentUpon>FormDetalles.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="FormDetallesCliente.aspx.designer.vb">
+      <DependentUpon>FormDetallesCliente.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="FormDetallesCliente.aspx.vb">
+      <DependentUpon>FormDetallesCliente.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="FormDetalleVenta.aspx.designer.vb">
+      <DependentUpon>FormDetalleVenta.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="FormDetalleVenta.aspx.vb">
+      <DependentUpon>FormDetalleVenta.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="FormDetalleVentaReserva.aspx.designer.vb">
+      <DependentUpon>FormDetalleVentaReserva.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="FormDetalleVentaReserva.aspx.vb">
+      <DependentUpon>FormDetalleVentaReserva.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="FormEmpVentPrincipal.aspx.designer.vb">
+      <DependentUpon>FormEmpVentPrincipal.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="FormEmpVentPrincipal.aspx.vb">
+      <DependentUpon>FormEmpVentPrincipal.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="FormEnvio.aspx.designer.vb">
+      <DependentUpon>FormEnvio.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="FormEnvio.aspx.vb">
+      <DependentUpon>FormEnvio.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="FormEnvioDetalles.aspx.designer.vb">
+      <DependentUpon>FormEnvioDetalles.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="FormEnvioDetalles.aspx.vb">
+      <DependentUpon>FormEnvioDetalles.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="FormListadeClientes.aspx.designer.vb">
+      <DependentUpon>FormListadeClientes.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="FormListadeClientes.aspx.vb">
+      <DependentUpon>FormListadeClientes.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="FormListadeCompras.aspx.designer.vb">
+      <DependentUpon>FormListadeCompras.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="FormListadeCompras.aspx.vb">
+      <DependentUpon>FormListadeCompras.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="FormListadeComprasaProv.aspx.designer.vb">
+      <DependentUpon>FormListadeComprasaProv.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="FormListadeComprasaProv.aspx.vb">
+      <DependentUpon>FormListadeComprasaProv.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="FormListadeElementosVendidos.aspx.designer.vb">
+      <DependentUpon>FormListadeElementosVendidos.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="FormListadeElementosVendidos.aspx.vb">
+      <DependentUpon>FormListadeElementosVendidos.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="FormListadeReservas.aspx.designer.vb">
+      <DependentUpon>FormListadeReservas.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="FormListadeReservas.aspx.vb">
+      <DependentUpon>FormListadeReservas.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="FormLogueo.aspx.designer.vb">
+      <DependentUpon>FormLogueo.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="FormLogueo.aspx.vb">
+      <DependentUpon>FormLogueo.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="FormNotaAdmin.aspx.designer.vb">
+      <DependentUpon>FormNotaAdmin.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="FormNotaAdmin.aspx.vb">
+      <DependentUpon>FormNotaAdmin.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="FormPago.aspx.designer.vb">
+      <DependentUpon>FormPago.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="FormPago.aspx.vb">
+      <DependentUpon>FormPago.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="FormPagoCompletarReserva.aspx.designer.vb">
+      <DependentUpon>FormPagoCompletarReserva.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="FormPagoCompletarReserva.aspx.vb">
+      <DependentUpon>FormPagoCompletarReserva.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="FormPagoPorReserva.aspx.designer.vb">
+      <DependentUpon>FormPagoPorReserva.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="FormPagoPorReserva.aspx.vb">
+      <DependentUpon>FormPagoPorReserva.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="FormPedidoporFaltante.aspx.designer.vb">
+      <DependentUpon>FormPedidoporFaltante.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="FormPedidoporFaltante.aspx.vb">
+      <DependentUpon>FormPedidoporFaltante.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="FormRegExitoso.aspx.designer.vb">
+      <DependentUpon>FormRegExitoso.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="FormRegExitoso.aspx.vb">
+      <DependentUpon>FormRegExitoso.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="FormRegistrodePiezas.aspx.designer.vb">
+      <DependentUpon>FormRegistrodePiezas.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="FormRegistrodePiezas.aspx.vb">
+      <DependentUpon>FormRegistrodePiezas.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="FormRegistrodePiezasDetalle.aspx.designer.vb">
+      <DependentUpon>FormRegistrodePiezasDetalle.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="FormRegistrodePiezasDetalle.aspx.vb">
+      <DependentUpon>FormRegistrodePiezasDetalle.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="FormRegistrodePiezasFaltantes.aspx.designer.vb">
+      <DependentUpon>FormRegistrodePiezasFaltantes.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="FormRegistrodePiezasFaltantes.aspx.vb">
+      <DependentUpon>FormRegistrodePiezasFaltantes.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="FormRegistroPagos.aspx.designer.vb">
+      <DependentUpon>FormRegistroPagos.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="FormRegistroPagos.aspx.vb">
+      <DependentUpon>FormRegistroPagos.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="FormReserva.aspx.designer.vb">
+      <DependentUpon>FormReserva.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="FormReserva.aspx.vb">
+      <DependentUpon>FormReserva.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="FormReservaCliente.aspx.designer.vb">
+      <DependentUpon>FormReservaCliente.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="FormReservaCliente.aspx.vb">
+      <DependentUpon>FormReservaCliente.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="FormVentaCliente.aspx.designer.vb">
+      <DependentUpon>FormVentaCliente.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="FormVentaCliente.aspx.vb">
+      <DependentUpon>FormVentaCliente.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="FormVentas.aspx.designer.vb">
+      <DependentUpon>FormVentas.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="FormVentas.aspx.vb">
+      <DependentUpon>FormVentas.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="Global.asax.vb">
+      <DependentUpon>Global.asax</DependentUpon>
+    </Compile>
+    <Compile Include="IUsuario.vb" />
+    <Compile Include="Logueo.Master.designer.vb">
+      <DependentUpon>Logueo.Master</DependentUpon>
+    </Compile>
+    <Compile Include="Logueo.Master.vb">
+      <DependentUpon>Logueo.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="MaestraFaltantes.master.designer.vb">
+      <DependentUpon>MaestraFaltantes.master</DependentUpon>
+    </Compile>
+    <Compile Include="MaestraFaltantes.master.vb">
+      <DependentUpon>MaestraFaltantes.master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\MyExtensions\MyWebExtension.vb">
+      <VBMyExtensionTemplateID>Microsoft.VisualBasic.Web.MyExtension</VBMyExtensionTemplateID>
+      <VBMyExtensionTemplateVersion>1.0.0.0</VBMyExtensionTemplateVersion>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="NestedMasterPage1.master.designer.vb">
+      <DependentUpon>NestedMasterPage1.master</DependentUpon>
+    </Compile>
+    <Compile Include="NestedMasterPage1.master.vb">
+      <DependentUpon>NestedMasterPage1.master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Site.Master.designer.vb">
+      <DependentUpon>Site.Master</DependentUpon>
+    </Compile>
+    <Compile Include="Site.Master.vb">
+      <DependentUpon>Site.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Account\Web.config" />
+    <Content Include="Logueo.Master" />
+    <Content Include="MaestraFaltantes.master" />
+    <Content Include="App_Themes\Skin1\Skin1.skin" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <Content Include="Site.Master" />
+    <Content Include="NestedMasterPage1.master" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="App_Data\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Datos\Datos.vbproj">
+      <Project>{93C9ED0D-67C7-47F7-A1FC-684D697B9FF0}</Project>
+      <Name>Datos</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Entidades\Entidades.vbproj">
+      <Project>{7A6C6078-A3EF-4AC0-99F4-B498A5E470C1}</Project>
+      <Name>Entidades</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Negocioo\Negocio.vbproj">
+      <Project>{D629CD1D-35F3-4E24-A459-C91D9DC2FC02}</Project>
+      <Name>Negocio</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.VisualBasic.targets" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>False</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>3864</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>
+          </IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
